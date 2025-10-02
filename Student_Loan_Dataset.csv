@@ -1,0 +1,1001 @@
+Loan_ID,Field_of_Study,Degree_Level,Course_Duration_Years,University_Tier,CGPA,Part_Time_Income,Scholarship_Amount,Has_Job_Offer,CoSigner_Income,CoSigner_Credit_History,Relationship_With_CoSigner,Loan_Purpose,LoanAmount,Loan_Status
+SL001,MBBS (Medicine),UG,5,Tier 1,6.2,4572,100000,0,38901,1,Parent,Living Expenses,766933,Y
+SL002,MCA (Computer Applications),Masters,3,Tier 3,4.9,9440,100000,0,15480,0,Parent,Both,547368,Y
+SL003,B.Ed (Education),UG,2,Tier 2,4.5,1617,100000,0,31761,1,Parent,Tuition,333720,N
+SL004,M.A (Economics),Masters,2,Tier 1,7.5,5258,75000,1,49842,0,Relative,Both,1341663,N
+SL005,Aerospace Engineering,UG,4,Tier 1,4.5,246,0,0,47893,0,Sibling,Tuition,730745,N
+SL006,Electrical Engineering,UG,4,Tier 3,4.5,491,25000,0,30698,1,Parent,Tuition,600208,N
+SL007,B.Com (Banking & Finance),UG,3,Tier 1,8.2,5617,0,1,36941,1,Parent,Both,259244,N
+SL008,M.Sc (Physics),Masters,2,Tier 2,9.8,4450,50000,1,31527,1,Relative,Tuition,1631291,Y
+SL009,Computer Engineering,UG,4,Tier 1,4.5,7062,0,0,10683,1,Guardian,Both,818210,Y
+SL010,Automobile Engineering,UG,4,Tier 2,7.0,7627,100000,1,32815,0,Parent,Tuition,698857,Y
+SL011,Electrical Engineering,UG,4,Tier 3,9.2,4748,75000,1,23729,1,Parent,Living Expenses,605513,Y
+SL012,MBA (Finance),Masters,2,Tier 3,4.5,4247,0,0,37298,1,Sibling,Both,946766,N
+SL013,B.Des (Product Design),UG,4,Tier 3,4.5,919,75000,0,43832,1,Guardian,Tuition,620406,Y
+SL014,M.Tech (AI & Robotics),Masters,2,Tier 2,4.5,6256,50000,0,20145,1,Parent,Tuition,805874,N
+SL015,MBA (Finance),Masters,2,Tier 2,4.5,11977,0,0,22731,1,Sibling,Tuition,1740069,N
+SL016,B.Des (Product Design),UG,4,Tier 3,4.8,2728,0,0,18326,1,Parent,Tuition,572185,N
+SL017,Data Science Engineering,UG,4,Tier 3,4.9,5616,100000,0,26790,0,Guardian,Tuition,709014,Y
+SL018,BDS (Dentistry),UG,5,Tier 3,6.4,6085,100000,0,31902,0,Sibling,Both,894229,N
+SL019,AI & Robotics,UG,3,Tier 1,8.4,4866,150000,1,21410,1,Guardian,Both,325222,Y
+SL020,Aerospace Engineering,UG,4,Tier 2,4.5,7372,50000,0,18695,1,Relative,Both,613253,Y
+SL021,AI & Robotics,UG,3,Tier 2,4.5,23,100000,0,58217,1,Parent,Tuition,974735,N
+SL022,M.Tech (Data Science),Masters,2,Tier 1,4.5,3698,50000,0,14061,1,Relative,Living Expenses,1298551,Y
+SL023,M.Sc (Physics),Masters,2,Tier 3,9.8,2198,50000,1,38644,1,Parent,Living Expenses,1336693,N
+SL024,MBBS (Medicine),UG,5,Tier 3,4.5,5430,25000,0,38812,1,Parent,Both,536858,N
+SL025,MBA (Marketing),Masters,2,Tier 2,4.5,12217,25000,0,15065,1,Parent,Both,1310016,N
+SL026,B.Com (Banking & Finance),UG,3,Tier 1,8.9,858,0,1,40818,1,Parent,Both,595592,Y
+SL027,B.A (History),UG,3,Tier 2,4.5,5910,0,0,50990,1,Parent,Both,127809,Y
+SL028,B.Sc (Chemistry),UG,3,Tier 2,4.5,259,0,0,26233,0,Guardian,Tuition,734976,Y
+SL029,LLB (Law),UG,5,Tier 1,8.4,5246,0,1,39926,0,Parent,Both,320687,Y
+SL030,Civil Engineering,UG,4,Tier 3,4.5,6347,100000,0,48216,1,Relative,Both,857398,Y
+SL031,B.Des (Product Design),UG,4,Tier 2,4.5,3449,75000,0,21814,1,Parent,Tuition,266688,N
+SL032,B.Sc (Mathematics),UG,3,Tier 1,8.8,5146,100000,1,37738,1,Parent,Tuition,328119,Y
+SL033,MBBS (Medicine),UG,5,Tier 3,9.6,645,0,1,33239,1,Parent,Both,501872,Y
+SL034,B.Sc (Chemistry),UG,3,Tier 2,7.5,1757,0,0,41049,1,Parent,Both,500402,Y
+SL035,Automobile Engineering,UG,4,Tier 1,6.6,3369,75000,0,33802,1,Parent,Tuition,708291,Y
+SL036,M.A (Economics),Masters,2,Tier 3,4.5,10272,25000,0,15231,1,Parent,Tuition,1294809,Y
+SL037,M.Tech (AI & Robotics),Masters,2,Tier 3,4.5,10457,75000,0,40724,1,Parent,Tuition,1651308,N
+SL038,MBA (HR),Masters,2,Tier 1,4.5,9023,0,0,43897,0,Parent,Tuition,1575905,Y
+SL039,BBA (Management Studies),UG,3,Tier 2,5.9,1556,50000,0,24723,0,Guardian,Both,137311,N
+SL040,BBA (Management Studies),UG,3,Tier 1,4.5,2074,150000,0,30507,1,Parent,Tuition,766489,N
+SL041,LLB (Law),UG,5,Tier 2,4.5,2978,25000,0,50502,1,Parent,Tuition,102631,N
+SL042,Automobile Engineering,UG,4,Tier 2,4.5,6828,75000,0,50025,1,Parent,Both,503066,N
+SL043,M.Sc (Mathematics),Masters,2,Tier 1,6.5,6990,50000,0,43202,0,Guardian,Tuition,1359986,N
+SL044,Civil Engineering,UG,4,Tier 1,8.0,7124,75000,1,42501,0,Parent,Tuition,134160,N
+SL045,M.Sc (Mathematics),Masters,2,Tier 2,8.0,10886,50000,1,17776,1,Relative,Tuition,1587894,Y
+SL046,M.Tech (Data Science),Masters,2,Tier 1,9.8,13361,150000,1,33637,1,Parent,Both,1356799,Y
+SL047,Aerospace Engineering,UG,4,Tier 3,6.5,7652,150000,0,14442,0,Parent,Living Expenses,961491,Y
+SL048,M.Tech (Data Science),Masters,2,Tier 2,7.6,13404,25000,0,29881,1,Sibling,Living Expenses,1616123,Y
+SL049,LLB (Law),UG,5,Tier 2,4.5,6446,150000,0,53305,1,Relative,Living Expenses,777253,Y
+SL050,LLB (Law),UG,5,Tier 2,9.7,2988,0,1,49501,0,Parent,Both,434500,N
+SL051,M.Sc (Mathematics),Masters,2,Tier 2,4.5,2950,150000,0,54190,1,Parent,Both,503199,Y
+SL052,B.Com (Accounting),UG,3,Tier 2,4.5,5187,100000,0,33256,0,Parent,Both,718394,Y
+SL053,MCA (Computer Applications),Masters,3,Tier 2,4.5,4034,0,0,47919,0,Sibling,Both,920161,Y
+SL054,Electronics Engineering,UG,4,Tier 1,4.5,1940,100000,0,54569,1,Parent,Tuition,686883,Y
+SL055,BBA (Management Studies),UG,3,Tier 1,7.7,7381,100000,1,41826,0,Parent,Tuition,118228,N
+SL056,Electrical Engineering,UG,4,Tier 1,4.5,1783,25000,0,36097,1,Parent,Both,151567,Y
+SL057,MBA (HR),Masters,2,Tier 3,4.5,8586,100000,0,59809,1,Parent,Both,1634846,N
+SL058,M.Sc (Physics),Masters,2,Tier 1,4.5,13982,50000,0,22070,0,Sibling,Both,1035672,N
+SL059,B.A (History),UG,3,Tier 3,5.8,5481,100000,0,59972,0,Relative,Living Expenses,719896,Y
+SL060,BDS (Dentistry),UG,5,Tier 2,9.3,5432,150000,1,45643,0,Sibling,Both,860874,Y
+SL061,B.A (English Literature),UG,3,Tier 1,4.9,4303,50000,0,57886,1,Parent,Both,727956,Y
+SL062,MBBS (Medicine),UG,5,Tier 3,4.5,3698,50000,0,40208,0,Relative,Tuition,522260,Y
+SL063,Computer Engineering,UG,4,Tier 3,7.7,4392,50000,1,48336,1,Guardian,Living Expenses,166677,Y
+SL064,B.A (Philosophy),UG,3,Tier 3,4.5,2574,0,0,59301,0,Guardian,Both,174310,Y
+SL065,B.Sc (Physics),UG,3,Tier 1,6.3,3635,150000,0,11965,1,Relative,Tuition,233731,N
+SL066,Aerospace Engineering,UG,4,Tier 3,9.5,3027,25000,1,35879,1,Guardian,Living Expenses,986003,Y
+SL067,Information Technology,UG,3,Tier 1,7.6,7111,25000,1,11676,0,Sibling,Tuition,990363,N
+SL068,M.Sc (Mathematics),Masters,2,Tier 3,5.6,12399,0,0,42716,1,Parent,Tuition,1650615,N
+SL069,Computer Engineering,UG,4,Tier 3,5.4,625,150000,0,17331,1,Parent,Both,560420,Y
+SL070,B.A (History),UG,3,Tier 3,7.5,2669,100000,0,10125,1,Parent,Both,560527,Y
+SL071,Information Technology,UG,3,Tier 3,6.0,1792,25000,0,15571,0,Relative,Both,390258,Y
+SL072,M.Sc (Mathematics),Masters,2,Tier 3,6.1,11379,25000,0,50629,0,Sibling,Tuition,1528656,Y
+SL073,M.Tech (Data Science),Masters,2,Tier 3,6.7,5134,0,0,49835,1,Parent,Both,1908098,N
+SL074,BBA (Management Studies),UG,3,Tier 1,4.5,3659,150000,0,19213,1,Parent,Both,602561,N
+SL075,MBA (Marketing),Masters,2,Tier 3,4.5,6426,75000,0,19730,1,Parent,Both,664481,Y
+SL076,Biotechnology Engineering,UG,4,Tier 3,8.0,54,50000,1,57244,1,Parent,Both,388627,Y
+SL077,B.Des (Product Design),UG,4,Tier 3,9.0,7748,50000,1,46024,1,Parent,Living Expenses,207069,Y
+SL078,Chemical Engineering,UG,4,Tier 1,4.5,5307,100000,0,35709,0,Guardian,Both,705970,Y
+SL079,Aerospace Engineering,UG,4,Tier 3,5.8,7608,0,0,57082,1,Guardian,Both,467682,N
+SL080,B.Sc (Physics),UG,3,Tier 2,4.5,4509,50000,0,12227,1,Parent,Tuition,852680,N
+SL081,BBA (Management Studies),UG,3,Tier 2,4.5,2952,100000,0,48013,1,Parent,Tuition,629345,N
+SL082,MBBS (Medicine),UG,5,Tier 1,6.1,2112,75000,0,23581,1,Relative,Living Expenses,507312,Y
+SL083,B.Sc (Chemistry),UG,3,Tier 3,4.5,7205,50000,0,33576,1,Parent,Tuition,278115,Y
+SL084,MCA (Computer Applications),Masters,3,Tier 1,4.5,3595,50000,0,45690,1,Parent,Living Expenses,750257,N
+SL085,MBBS (Medicine),UG,5,Tier 2,6.7,1479,100000,0,43733,0,Guardian,Both,301695,N
+SL086,B.A (English Literature),UG,3,Tier 3,4.5,1704,25000,0,29549,0,Parent,Tuition,191764,N
+SL087,M.Tech (Data Science),Masters,2,Tier 2,4.7,5284,50000,0,42077,1,Parent,Tuition,1616395,Y
+SL088,Electrical Engineering,UG,4,Tier 1,8.1,2751,150000,1,54113,1,Parent,Living Expenses,139875,N
+SL089,Aerospace Engineering,UG,4,Tier 3,4.5,3143,0,0,41377,1,Parent,Both,539019,Y
+SL090,LLB (Law),UG,5,Tier 3,9.7,7198,75000,1,55226,0,Parent,Living Expenses,873903,Y
+SL091,MBBS (Medicine),UG,5,Tier 1,9.7,2019,75000,1,12085,1,Relative,Tuition,382368,N
+SL092,MCA (Computer Applications),Masters,3,Tier 3,7.9,14538,150000,1,15780,0,Parent,Living Expenses,802707,Y
+SL093,M.Sc (Physics),Masters,2,Tier 1,5.2,3328,75000,0,30218,1,Relative,Tuition,1621771,Y
+SL094,B.Sc (Physics),UG,3,Tier 3,4.5,4665,0,0,40597,0,Guardian,Tuition,664567,Y
+SL095,B.Ed (Education),UG,2,Tier 3,4.5,1413,25000,0,13661,1,Parent,Both,704428,Y
+SL096,B.Des (Product Design),UG,4,Tier 2,4.5,7491,25000,0,17127,1,Parent,Tuition,985763,Y
+SL097,B.Ed (Education),UG,2,Tier 1,9.8,114,0,1,46241,1,Parent,Both,574826,N
+SL098,B.A (English Literature),UG,3,Tier 1,4.5,2739,100000,0,52047,1,Sibling,Tuition,870477,Y
+SL099,B.Ed (Education),UG,2,Tier 1,5.7,6673,150000,0,44904,0,Parent,Tuition,768571,N
+SL100,Chemical Engineering,UG,4,Tier 1,4.5,1083,25000,0,28288,1,Sibling,Both,966587,Y
+SL101,Electrical Engineering,UG,4,Tier 1,4.5,4182,50000,0,10038,0,Parent,Tuition,909304,Y
+SL102,MBA (HR),Masters,2,Tier 2,8.6,3240,50000,1,32229,0,Relative,Tuition,675152,Y
+SL103,Chemical Engineering,UG,4,Tier 1,7.4,2800,25000,1,50191,0,Guardian,Both,132254,N
+SL104,BBA (Management Studies),UG,3,Tier 3,9.5,572,100000,1,51654,0,Sibling,Tuition,613180,Y
+SL105,B.Com (Banking & Finance),UG,3,Tier 3,4.5,680,0,0,38745,1,Sibling,Living Expenses,249539,Y
+SL106,Chemical Engineering,UG,4,Tier 1,4.5,4207,50000,0,54975,0,Parent,Both,431655,Y
+SL107,Mechanical Engineering,UG,4,Tier 2,6.8,1912,25000,0,17972,1,Sibling,Tuition,881897,N
+SL108,Data Science Engineering,UG,4,Tier 3,5.0,1306,25000,0,41558,1,Parent,Both,481856,Y
+SL109,Information Technology,UG,3,Tier 1,4.5,4029,100000,0,24066,1,Parent,Living Expenses,624533,N
+SL110,M.A (Economics),Masters,2,Tier 2,8.8,11658,75000,1,37163,0,Parent,Both,608837,Y
+SL111,M.Sc (Mathematics),Masters,2,Tier 2,5.6,11811,25000,0,34701,1,Parent,Both,1413491,Y
+SL112,B.A (History),UG,3,Tier 1,6.4,1750,0,0,56667,1,Guardian,Both,259258,Y
+SL113,Data Science Engineering,UG,4,Tier 3,4.5,5850,50000,0,31696,1,Parent,Tuition,800907,Y
+SL114,MBA (Finance),Masters,2,Tier 1,4.5,14625,100000,0,24918,1,Relative,Both,810339,Y
+SL115,B.A (History),UG,3,Tier 1,4.5,2917,100000,0,43560,0,Parent,Both,260308,Y
+SL116,Data Science Engineering,UG,4,Tier 3,8.5,4512,0,1,13422,1,Parent,Both,299584,Y
+SL117,M.Tech (AI & Robotics),Masters,2,Tier 1,4.5,6190,75000,0,56852,1,Guardian,Living Expenses,1107831,Y
+SL118,MBA (Finance),Masters,2,Tier 2,7.1,2553,25000,1,48985,1,Parent,Both,829527,N
+SL119,MBA (Finance),Masters,2,Tier 1,9.6,2822,25000,1,10129,1,Parent,Both,1332534,Y
+SL120,Electrical Engineering,UG,4,Tier 3,8.5,2759,50000,1,35914,1,Parent,Both,542338,Y
+SL121,BDS (Dentistry),UG,5,Tier 2,5.1,136,50000,0,31078,1,Parent,Tuition,836227,Y
+SL122,B.A (History),UG,3,Tier 2,4.5,1308,25000,0,11611,1,Parent,Both,695860,N
+SL123,Electrical Engineering,UG,4,Tier 2,6.3,1171,50000,0,44662,1,Parent,Tuition,671011,Y
+SL124,Computer Engineering,UG,4,Tier 1,7.6,556,150000,1,54362,1,Parent,Both,628940,Y
+SL125,B.Sc (Chemistry),UG,3,Tier 3,5.5,304,0,0,22532,0,Guardian,Both,521776,N
+SL126,Aerospace Engineering,UG,4,Tier 3,7.2,3745,50000,1,26077,0,Guardian,Both,685276,N
+SL127,M.Tech (Data Science),Masters,2,Tier 3,4.5,6862,75000,0,56730,0,Parent,Living Expenses,639237,Y
+SL128,B.Sc (Chemistry),UG,3,Tier 3,4.5,4076,100000,0,20627,1,Relative,Both,535375,N
+SL129,B.A (History),UG,3,Tier 3,4.5,6633,0,0,33110,1,Relative,Living Expenses,160807,N
+SL130,M.Sc (Mathematics),Masters,2,Tier 3,8.7,3689,50000,1,17325,1,Parent,Both,1724453,N
+SL131,B.Sc (Chemistry),UG,3,Tier 1,6.1,1725,75000,0,17992,0,Parent,Both,355231,N
+SL132,B.A (History),UG,3,Tier 3,8.8,7143,0,1,12268,0,Parent,Tuition,758642,N
+SL133,B.A (Philosophy),UG,3,Tier 1,4.5,1610,0,0,27010,1,Parent,Tuition,595036,N
+SL134,B.Ed (Education),UG,2,Tier 2,4.5,3520,150000,0,52835,1,Parent,Both,315772,N
+SL135,B.A (Philosophy),UG,3,Tier 1,4.9,5880,75000,0,36753,1,Parent,Both,861264,Y
+SL136,B.Des (Product Design),UG,4,Tier 3,6.1,5811,150000,0,48238,0,Parent,Tuition,619639,N
+SL137,BBA (Management Studies),UG,3,Tier 2,4.5,6457,0,0,10186,1,Sibling,Living Expenses,381142,N
+SL138,MBA (HR),Masters,2,Tier 2,7.6,11052,75000,1,17887,1,Guardian,Living Expenses,1222960,Y
+SL139,M.Sc (Physics),Masters,2,Tier 2,4.5,6047,100000,0,25864,1,Relative,Both,818345,N
+SL140,Computer Engineering,UG,4,Tier 2,4.5,3173,25000,0,29749,1,Parent,Both,763859,N
+SL141,B.Com (Banking & Finance),UG,3,Tier 2,8.3,2450,25000,1,31278,1,Parent,Both,862014,Y
+SL142,B.Ed (Education),UG,2,Tier 2,7.5,4773,150000,0,23480,1,Parent,Both,566480,N
+SL143,LLB (Law),UG,5,Tier 2,5.8,2253,0,0,44657,1,Parent,Both,277951,Y
+SL144,Automobile Engineering,UG,4,Tier 2,6.6,6419,75000,0,53074,1,Relative,Living Expenses,362243,Y
+SL145,B.Des (Product Design),UG,4,Tier 3,5.2,3387,25000,0,21991,1,Guardian,Tuition,318337,Y
+SL146,Mechanical Engineering,UG,4,Tier 2,4.5,2707,100000,0,30247,1,Parent,Both,245343,Y
+SL147,B.A (English Literature),UG,3,Tier 1,8.2,4128,0,1,56100,1,Parent,Tuition,439688,Y
+SL148,Chemical Engineering,UG,4,Tier 2,4.5,3644,25000,0,30585,1,Parent,Tuition,418405,N
+SL149,M.A (Economics),Masters,2,Tier 2,6.5,10560,75000,0,10901,0,Parent,Both,1327269,Y
+SL150,Chemical Engineering,UG,4,Tier 2,9.3,4874,150000,1,47293,1,Parent,Both,922339,N
+SL151,MBBS (Medicine),UG,5,Tier 2,4.5,1835,75000,0,56337,1,Parent,Both,750613,Y
+SL152,B.Ed (Education),UG,2,Tier 2,6.6,2249,25000,0,36943,1,Guardian,Both,163990,Y
+SL153,Information Technology,UG,3,Tier 2,9.2,5759,0,1,57149,1,Guardian,Living Expenses,969404,N
+SL154,LLB (Law),UG,5,Tier 2,4.5,2483,150000,0,53572,1,Parent,Living Expenses,172314,Y
+SL155,Aerospace Engineering,UG,4,Tier 1,4.5,4650,0,0,32109,1,Guardian,Tuition,762273,Y
+SL156,B.A (History),UG,3,Tier 3,8.0,1392,0,1,54462,1,Parent,Tuition,296322,Y
+SL157,BDS (Dentistry),UG,5,Tier 2,7.7,4427,150000,0,35686,1,Guardian,Both,768361,Y
+SL158,B.A (English Literature),UG,3,Tier 2,6.5,884,0,0,55762,0,Parent,Both,959051,Y
+SL159,B.Ed (Education),UG,2,Tier 2,5.4,5598,100000,0,23544,0,Sibling,Tuition,842844,Y
+SL160,Biotechnology Engineering,UG,4,Tier 2,5.8,7147,0,0,52391,0,Guardian,Tuition,497121,N
+SL161,Electrical Engineering,UG,4,Tier 1,5.1,899,100000,0,13085,1,Parent,Living Expenses,352627,Y
+SL162,Electronics Engineering,UG,4,Tier 3,7.2,18,100000,1,10506,1,Sibling,Living Expenses,288534,N
+SL163,B.Com (Banking & Finance),UG,3,Tier 2,8.9,6130,25000,1,47336,1,Parent,Tuition,113082,N
+SL164,MBA (HR),Masters,2,Tier 1,5.2,4787,25000,0,41077,1,Parent,Both,1477126,Y
+SL165,Electrical Engineering,UG,4,Tier 1,6.1,6006,0,0,16989,1,Parent,Both,778829,Y
+SL166,Information Technology,UG,3,Tier 1,7.9,4472,100000,1,46753,1,Parent,Both,570766,Y
+SL167,MBA (Marketing),Masters,2,Tier 3,4.5,10014,75000,0,56354,0,Parent,Tuition,1724865,Y
+SL168,M.Sc (Mathematics),Masters,2,Tier 3,6.9,10703,150000,0,13862,1,Parent,Living Expenses,1578987,N
+SL169,B.Des (Product Design),UG,4,Tier 3,4.7,3705,50000,0,41530,1,Parent,Both,672552,Y
+SL170,Computer Engineering,UG,4,Tier 3,9.7,4641,0,1,52778,0,Sibling,Living Expenses,376046,Y
+SL171,B.Com (Banking & Finance),UG,3,Tier 1,5.3,5251,0,0,44777,1,Guardian,Tuition,460159,N
+SL172,MBA (Marketing),Masters,2,Tier 2,8.0,14146,50000,1,48446,1,Guardian,Both,796167,N
+SL173,B.A (English Literature),UG,3,Tier 2,4.5,5849,100000,0,42959,1,Parent,Both,875816,Y
+SL174,B.Com (Banking & Finance),UG,3,Tier 1,9.7,597,0,1,42424,1,Parent,Tuition,428201,Y
+SL175,MBBS (Medicine),UG,5,Tier 1,4.5,3152,0,0,18880,1,Parent,Living Expenses,573996,N
+SL176,B.Sc (Physics),UG,3,Tier 2,6.0,1137,75000,0,37003,0,Parent,Tuition,980231,Y
+SL177,MBA (Finance),Masters,2,Tier 3,8.7,14427,75000,1,18617,1,Relative,Tuition,1699141,N
+SL178,Biotechnology Engineering,UG,4,Tier 1,9.7,3348,75000,1,27892,1,Parent,Tuition,552489,Y
+SL179,Electronics Engineering,UG,4,Tier 1,4.5,7833,75000,0,35043,1,Sibling,Both,984388,Y
+SL180,MCA (Computer Applications),Masters,3,Tier 2,7.8,14922,0,1,35985,1,Relative,Living Expenses,1685224,Y
+SL181,Civil Engineering,UG,4,Tier 1,7.6,303,50000,1,49073,1,Guardian,Tuition,948279,N
+SL182,B.Sc (Physics),UG,3,Tier 3,5.5,7702,75000,0,50718,0,Parent,Both,859596,N
+SL183,Automobile Engineering,UG,4,Tier 2,8.7,4427,50000,1,56590,1,Parent,Living Expenses,514641,Y
+SL184,B.Sc (Mathematics),UG,3,Tier 1,4.5,87,0,0,55506,0,Guardian,Living Expenses,801506,Y
+SL185,B.A (English Literature),UG,3,Tier 3,6.8,7442,75000,0,48414,1,Parent,Both,957130,Y
+SL186,BBA (Management Studies),UG,3,Tier 1,4.5,952,150000,0,24149,1,Parent,Tuition,558031,N
+SL187,LLB (Law),UG,5,Tier 2,8.6,5996,100000,1,23952,1,Relative,Tuition,872203,Y
+SL188,Chemical Engineering,UG,4,Tier 1,8.0,6423,0,1,22908,1,Parent,Tuition,506960,Y
+SL189,BDS (Dentistry),UG,5,Tier 1,7.8,4959,100000,1,55331,1,Relative,Both,514651,N
+SL190,Electrical Engineering,UG,4,Tier 2,5.3,6950,0,0,42654,1,Relative,Living Expenses,313957,N
+SL191,B.Des (Product Design),UG,4,Tier 3,9.4,2084,25000,1,21375,0,Parent,Tuition,337155,Y
+SL192,B.A (Philosophy),UG,3,Tier 1,4.9,5460,25000,0,28947,1,Relative,Tuition,907270,N
+SL193,Aerospace Engineering,UG,4,Tier 3,9.7,2147,150000,1,40841,0,Parent,Both,940893,N
+SL194,MBA (HR),Masters,2,Tier 3,9.8,10095,25000,1,21619,1,Parent,Both,847875,Y
+SL195,M.A (Economics),Masters,2,Tier 3,4.5,13641,0,0,12659,1,Parent,Both,995982,Y
+SL196,Biotechnology Engineering,UG,4,Tier 2,4.6,6832,150000,0,29366,0,Sibling,Both,507810,N
+SL197,B.A (Philosophy),UG,3,Tier 2,4.5,2291,150000,0,52748,1,Guardian,Both,136278,N
+SL198,Electronics Engineering,UG,4,Tier 3,4.5,1233,100000,0,40889,1,Parent,Both,327844,Y
+SL199,Data Science Engineering,UG,4,Tier 2,6.9,3952,0,0,14105,0,Sibling,Living Expenses,947633,Y
+SL200,B.Sc (Chemistry),UG,3,Tier 1,4.5,7651,50000,0,13408,0,Parent,Both,389491,N
+SL201,M.Sc (Mathematics),Masters,2,Tier 2,7.6,8353,0,0,52986,1,Parent,Both,869785,Y
+SL202,M.Sc (Physics),Masters,2,Tier 1,7.7,5847,75000,1,49434,0,Parent,Both,778850,N
+SL203,B.Sc (Physics),UG,3,Tier 1,9.1,379,75000,1,53481,1,Guardian,Both,880090,Y
+SL204,MBA (Marketing),Masters,2,Tier 3,8.3,8089,25000,1,12744,0,Parent,Living Expenses,544718,N
+SL205,MBBS (Medicine),UG,5,Tier 3,8.3,6687,150000,1,59159,1,Parent,Tuition,317005,Y
+SL206,B.Sc (Chemistry),UG,3,Tier 1,4.5,4375,50000,0,29676,1,Sibling,Living Expenses,969571,Y
+SL207,BBA (Management Studies),UG,3,Tier 2,9.8,5129,100000,1,29461,1,Guardian,Tuition,875068,N
+SL208,Mechanical Engineering,UG,4,Tier 2,4.5,2431,25000,0,53308,1,Parent,Living Expenses,649740,N
+SL209,BBA (Management Studies),UG,3,Tier 1,9.0,2116,100000,1,32873,1,Parent,Living Expenses,758467,Y
+SL210,B.Com (Banking & Finance),UG,3,Tier 2,4.5,722,0,0,19990,1,Parent,Living Expenses,273006,Y
+SL211,B.Ed (Education),UG,2,Tier 1,6.5,2055,0,0,22387,1,Parent,Living Expenses,199933,Y
+SL212,Automobile Engineering,UG,4,Tier 2,4.5,2454,25000,0,43669,1,Parent,Tuition,900829,Y
+SL213,BDS (Dentistry),UG,5,Tier 3,7.8,7066,50000,0,49138,1,Guardian,Both,264270,N
+SL214,MCA (Computer Applications),Masters,3,Tier 3,9.8,12471,100000,1,28596,0,Parent,Both,1869412,N
+SL215,Aerospace Engineering,UG,4,Tier 3,5.1,772,100000,0,37178,1,Guardian,Tuition,745324,N
+SL216,MBBS (Medicine),UG,5,Tier 1,4.5,2166,100000,0,54938,0,Parent,Living Expenses,360878,Y
+SL217,M.Sc (Physics),Masters,2,Tier 1,7.0,11399,50000,1,27269,0,Guardian,Living Expenses,1923428,N
+SL218,B.Ed (Education),UG,2,Tier 1,4.5,5806,0,0,27917,1,Relative,Both,140293,N
+SL219,Chemical Engineering,UG,4,Tier 1,7.5,612,0,1,12088,1,Parent,Both,643172,N
+SL220,B.Com (Banking & Finance),UG,3,Tier 1,4.5,7553,25000,0,54083,1,Parent,Tuition,907213,N
+SL221,M.Sc (Mathematics),Masters,2,Tier 1,8.6,2001,75000,1,11767,0,Parent,Both,1519857,N
+SL222,Electrical Engineering,UG,4,Tier 1,4.5,7257,25000,0,25720,0,Sibling,Tuition,333676,N
+SL223,MBBS (Medicine),UG,5,Tier 2,6.6,5878,0,0,46600,1,Parent,Both,174854,N
+SL224,Biotechnology Engineering,UG,4,Tier 1,7.9,1939,100000,1,47261,0,Relative,Tuition,756822,Y
+SL225,Aerospace Engineering,UG,4,Tier 2,9.0,107,75000,1,36060,1,Parent,Both,300151,Y
+SL226,MCA (Computer Applications),Masters,3,Tier 1,6.0,9817,75000,0,10341,1,Parent,Tuition,1411218,N
+SL227,MBBS (Medicine),UG,5,Tier 2,5.2,1563,0,0,27908,1,Parent,Tuition,870914,N
+SL228,M.Tech (Data Science),Masters,2,Tier 2,5.6,13223,100000,0,50320,0,Guardian,Tuition,565668,Y
+SL229,B.A (Philosophy),UG,3,Tier 2,6.1,1489,0,0,14674,1,Sibling,Both,363826,N
+SL230,Electronics Engineering,UG,4,Tier 1,6.8,913,50000,0,58285,0,Parent,Living Expenses,363955,Y
+SL231,M.Sc (Mathematics),Masters,2,Tier 3,9.7,7202,25000,1,35797,1,Guardian,Both,1846844,N
+SL232,M.Sc (Physics),Masters,2,Tier 3,7.5,13694,25000,0,27866,1,Parent,Tuition,909258,N
+SL233,B.Des (Product Design),UG,4,Tier 3,8.1,3484,0,1,48216,0,Parent,Tuition,575263,Y
+SL234,MCA (Computer Applications),Masters,3,Tier 2,6.1,13761,100000,0,25699,1,Parent,Tuition,1967533,N
+SL235,B.Des (Product Design),UG,4,Tier 3,5.9,5892,75000,0,37296,0,Parent,Both,333993,N
+SL236,Chemical Engineering,UG,4,Tier 1,5.9,516,100000,0,46045,1,Parent,Both,947565,N
+SL237,B.A (History),UG,3,Tier 1,4.5,3153,50000,0,44343,0,Parent,Tuition,407851,Y
+SL238,BDS (Dentistry),UG,5,Tier 3,8.4,7316,0,1,53643,1,Parent,Tuition,467287,Y
+SL239,BBA (Management Studies),UG,3,Tier 2,4.5,2230,100000,0,34927,1,Parent,Living Expenses,972833,Y
+SL240,MCA (Computer Applications),Masters,3,Tier 1,5.6,4546,0,0,13765,1,Sibling,Living Expenses,1457464,Y
+SL241,B.Des (Product Design),UG,4,Tier 1,6.6,4540,75000,0,30863,1,Parent,Living Expenses,943722,Y
+SL242,M.Sc (Physics),Masters,2,Tier 2,4.5,2586,0,0,36073,0,Guardian,Both,1342979,N
+SL243,MBA (Finance),Masters,2,Tier 1,8.3,6109,25000,1,13605,1,Parent,Tuition,1264231,N
+SL244,M.A (Economics),Masters,2,Tier 2,4.5,5847,0,0,45258,1,Parent,Both,1274126,N
+SL245,B.Com (Banking & Finance),UG,3,Tier 3,6.4,6962,75000,0,23623,1,Relative,Tuition,254142,N
+SL246,Chemical Engineering,UG,4,Tier 2,4.5,2588,75000,0,35143,0,Parent,Tuition,852489,N
+SL247,Computer Engineering,UG,4,Tier 2,9.7,4905,150000,1,35138,1,Parent,Tuition,377510,N
+SL248,BDS (Dentistry),UG,5,Tier 3,4.5,7468,50000,0,10511,1,Parent,Living Expenses,945172,Y
+SL249,B.Sc (Chemistry),UG,3,Tier 3,8.8,6318,0,1,15796,1,Guardian,Tuition,922643,N
+SL250,M.A (Economics),Masters,2,Tier 1,4.5,13942,0,0,54066,1,Parent,Tuition,573156,Y
+SL251,B.Sc (Mathematics),UG,3,Tier 2,9.8,6193,0,1,29181,1,Parent,Both,937314,N
+SL252,B.A (Philosophy),UG,3,Tier 2,6.1,736,50000,0,40404,1,Guardian,Living Expenses,211483,Y
+SL253,M.Tech (Data Science),Masters,2,Tier 1,4.5,9616,0,0,19533,1,Parent,Tuition,940311,Y
+SL254,BDS (Dentistry),UG,5,Tier 3,4.5,6606,0,0,25797,1,Parent,Tuition,219820,Y
+SL255,Biotechnology Engineering,UG,4,Tier 1,4.5,7905,50000,0,19293,1,Parent,Tuition,693964,N
+SL256,Aerospace Engineering,UG,4,Tier 2,4.5,7639,150000,0,10031,1,Guardian,Tuition,884215,N
+SL257,MBA (HR),Masters,2,Tier 1,7.7,7801,0,1,35783,1,Guardian,Tuition,567648,Y
+SL258,B.Sc (Chemistry),UG,3,Tier 1,4.5,2127,150000,0,49555,0,Relative,Tuition,563265,Y
+SL259,M.Sc (Physics),Masters,2,Tier 2,8.3,14876,50000,1,15750,1,Relative,Both,627189,Y
+SL260,MBBS (Medicine),UG,5,Tier 1,4.5,4209,0,0,59155,1,Parent,Tuition,229411,N
+SL261,B.Sc (Physics),UG,3,Tier 2,4.5,4032,75000,0,25257,1,Guardian,Both,274825,Y
+SL262,MBA (HR),Masters,2,Tier 3,6.5,9437,150000,0,43267,0,Sibling,Living Expenses,910114,N
+SL263,LLB (Law),UG,5,Tier 2,4.5,7824,100000,0,31390,0,Parent,Tuition,727050,Y
+SL264,Electrical Engineering,UG,4,Tier 3,4.5,3877,100000,0,53725,1,Parent,Both,969493,Y
+SL265,M.Tech (Data Science),Masters,2,Tier 1,8.8,13901,100000,1,23724,0,Relative,Living Expenses,1652035,Y
+SL266,M.A (Economics),Masters,2,Tier 1,8.8,11354,0,1,35996,0,Parent,Tuition,1767066,Y
+SL267,M.A (Economics),Masters,2,Tier 1,9.6,11799,50000,1,26618,1,Guardian,Tuition,550070,Y
+SL268,M.Sc (Mathematics),Masters,2,Tier 1,4.5,8086,0,0,26387,0,Parent,Tuition,1734854,N
+SL269,MBA (Finance),Masters,2,Tier 3,7.5,13171,0,1,48411,1,Parent,Tuition,1369396,Y
+SL270,Computer Engineering,UG,4,Tier 2,4.5,3258,150000,0,26307,1,Relative,Both,379097,N
+SL271,Computer Engineering,UG,4,Tier 2,9.4,442,0,1,38668,0,Relative,Tuition,474085,N
+SL272,Automobile Engineering,UG,4,Tier 2,8.7,5049,75000,1,51828,1,Parent,Both,337772,N
+SL273,BDS (Dentistry),UG,5,Tier 1,8.4,3251,100000,1,40758,0,Parent,Both,348831,Y
+SL274,Mechanical Engineering,UG,4,Tier 3,6.5,6269,150000,0,15350,1,Guardian,Both,755755,Y
+SL275,Data Science Engineering,UG,4,Tier 1,5.7,7280,0,0,51933,0,Parent,Both,788972,Y
+SL276,Electrical Engineering,UG,4,Tier 2,9.3,2617,0,1,15496,1,Parent,Both,217915,Y
+SL277,AI & Robotics,UG,3,Tier 2,9.8,7422,100000,1,56051,1,Parent,Tuition,103615,N
+SL278,B.Sc (Physics),UG,3,Tier 1,4.5,2222,25000,0,43122,1,Sibling,Both,683092,Y
+SL279,BDS (Dentistry),UG,5,Tier 1,4.5,4800,50000,0,57058,1,Parent,Both,767805,Y
+SL280,B.Des (Product Design),UG,4,Tier 3,4.5,3189,0,0,24384,1,Sibling,Both,579372,Y
+SL281,B.Sc (Chemistry),UG,3,Tier 1,4.5,4502,0,0,13946,1,Parent,Tuition,126163,N
+SL282,M.A (Economics),Masters,2,Tier 3,5.8,8355,75000,0,53112,1,Parent,Tuition,604830,Y
+SL283,MBA (Finance),Masters,2,Tier 1,4.5,12370,50000,0,52496,1,Relative,Both,1134099,Y
+SL284,MBA (HR),Masters,2,Tier 1,4.5,9866,0,0,43791,1,Relative,Tuition,887694,N
+SL285,Aerospace Engineering,UG,4,Tier 2,8.2,3626,25000,1,48863,1,Relative,Tuition,358081,N
+SL286,MCA (Computer Applications),Masters,3,Tier 1,7.6,8650,0,1,39718,1,Guardian,Both,561206,Y
+SL287,MBA (HR),Masters,2,Tier 2,4.5,4103,75000,0,15582,0,Parent,Tuition,1600566,N
+SL288,Data Science Engineering,UG,4,Tier 1,4.5,4103,25000,0,59026,1,Parent,Both,524014,Y
+SL289,M.Tech (AI & Robotics),Masters,2,Tier 2,8.7,13222,50000,1,26384,1,Parent,Tuition,1063010,Y
+SL290,M.Sc (Physics),Masters,2,Tier 1,7.9,5026,50000,1,41580,1,Guardian,Both,1792426,N
+SL291,Electronics Engineering,UG,4,Tier 1,4.5,6986,25000,0,12596,1,Parent,Both,407340,Y
+SL292,Automobile Engineering,UG,4,Tier 1,8.1,5815,0,1,27048,1,Sibling,Living Expenses,621064,N
+SL293,BDS (Dentistry),UG,5,Tier 1,8.0,447,100000,1,55399,1,Parent,Both,470699,Y
+SL294,M.A (Economics),Masters,2,Tier 3,9.7,5455,25000,1,50881,1,Guardian,Both,1714644,Y
+SL295,M.Tech (Data Science),Masters,2,Tier 3,9.8,14547,100000,1,51679,0,Parent,Living Expenses,614094,N
+SL296,Civil Engineering,UG,4,Tier 3,4.5,492,0,0,30051,1,Sibling,Tuition,130009,Y
+SL297,M.Tech (Data Science),Masters,2,Tier 2,4.5,6604,75000,0,44770,1,Parent,Both,1439465,Y
+SL298,B.Com (Accounting),UG,3,Tier 3,9.8,6578,100000,1,23450,0,Sibling,Both,883034,Y
+SL299,Data Science Engineering,UG,4,Tier 3,4.5,117,50000,0,43927,1,Guardian,Tuition,970922,Y
+SL300,MBBS (Medicine),UG,5,Tier 1,4.5,3727,50000,0,20551,1,Parent,Both,634611,Y
+SL301,B.Sc (Physics),UG,3,Tier 2,4.5,2102,25000,0,19267,1,Guardian,Tuition,688685,Y
+SL302,B.Sc (Mathematics),UG,3,Tier 3,4.5,8,50000,0,53613,1,Parent,Both,270441,Y
+SL303,M.Sc (Mathematics),Masters,2,Tier 1,4.5,5407,50000,0,51649,1,Guardian,Both,696216,Y
+SL304,Aerospace Engineering,UG,4,Tier 3,5.3,1416,100000,0,28237,0,Sibling,Both,673574,Y
+SL305,MCA (Computer Applications),Masters,3,Tier 3,9.8,10880,25000,1,55642,1,Parent,Tuition,630692,Y
+SL306,BBA (Management Studies),UG,3,Tier 2,7.7,5953,50000,0,24746,1,Parent,Living Expenses,287607,N
+SL307,B.A (History),UG,3,Tier 1,7.7,4798,50000,1,14805,1,Parent,Tuition,630580,Y
+SL308,B.A (English Literature),UG,3,Tier 2,4.5,130,25000,0,30887,0,Guardian,Both,268701,Y
+SL309,BDS (Dentistry),UG,5,Tier 3,4.5,5875,50000,0,40042,1,Parent,Tuition,210428,N
+SL310,Aerospace Engineering,UG,4,Tier 2,4.9,6551,75000,0,46846,1,Guardian,Both,132572,Y
+SL311,B.Ed (Education),UG,2,Tier 3,7.2,7339,100000,0,42885,1,Parent,Living Expenses,202684,Y
+SL312,B.Com (Accounting),UG,3,Tier 3,6.8,6937,0,0,51275,0,Guardian,Both,832947,Y
+SL313,B.Des (Product Design),UG,4,Tier 3,4.5,7975,0,0,30642,1,Guardian,Both,832862,Y
+SL314,M.Tech (Data Science),Masters,2,Tier 3,4.5,11546,25000,0,17124,0,Parent,Living Expenses,1287922,Y
+SL315,M.Tech (AI & Robotics),Masters,2,Tier 3,4.5,6447,75000,0,20524,0,Sibling,Tuition,737315,Y
+SL316,Automobile Engineering,UG,4,Tier 1,9.7,7995,0,1,55783,1,Parent,Both,247163,N
+SL317,M.Sc (Physics),Masters,2,Tier 3,6.1,6830,0,0,32261,1,Guardian,Living Expenses,1492307,N
+SL318,Electronics Engineering,UG,4,Tier 1,6.0,530,75000,0,54518,0,Guardian,Living Expenses,808542,N
+SL319,B.A (Philosophy),UG,3,Tier 1,4.5,5441,50000,0,33804,1,Parent,Tuition,750376,Y
+SL320,Computer Engineering,UG,4,Tier 3,4.5,3749,25000,0,11508,1,Parent,Tuition,106080,N
+SL321,BBA (Management Studies),UG,3,Tier 3,6.5,7515,0,0,44474,1,Parent,Both,614650,Y
+SL322,Data Science Engineering,UG,4,Tier 2,7.1,7938,50000,1,31640,1,Parent,Both,266613,Y
+SL323,B.Des (Product Design),UG,4,Tier 2,4.5,2917,0,0,20140,1,Relative,Both,778009,Y
+SL324,B.Com (Banking & Finance),UG,3,Tier 1,4.5,6868,100000,0,20106,0,Parent,Living Expenses,835165,Y
+SL325,Data Science Engineering,UG,4,Tier 3,4.5,7112,50000,0,20865,1,Parent,Tuition,242362,N
+SL326,B.A (History),UG,3,Tier 1,6.6,7981,75000,0,43490,1,Parent,Tuition,435919,Y
+SL327,Aerospace Engineering,UG,4,Tier 1,6.7,6239,50000,0,45468,0,Parent,Tuition,479537,N
+SL328,M.Sc (Mathematics),Masters,2,Tier 1,4.5,7356,0,0,32948,1,Guardian,Living Expenses,624806,Y
+SL329,B.Sc (Chemistry),UG,3,Tier 3,4.5,6582,0,0,10584,1,Parent,Tuition,123948,Y
+SL330,MBA (Marketing),Masters,2,Tier 1,9.3,2220,50000,1,28080,1,Parent,Tuition,1537003,Y
+SL331,Computer Engineering,UG,4,Tier 3,7.0,3699,25000,1,22026,1,Sibling,Tuition,176279,N
+SL332,B.A (Philosophy),UG,3,Tier 1,4.5,396,0,0,54506,1,Parent,Both,240393,N
+SL333,M.Tech (AI & Robotics),Masters,2,Tier 3,4.5,9887,150000,0,22230,1,Parent,Living Expenses,1231752,N
+SL334,B.Ed (Education),UG,2,Tier 2,4.5,7449,50000,0,34896,1,Parent,Living Expenses,735418,Y
+SL335,M.A (Economics),Masters,2,Tier 1,7.6,14125,25000,1,12536,1,Guardian,Tuition,1151713,N
+SL336,Aerospace Engineering,UG,4,Tier 3,6.9,5185,100000,0,50271,1,Parent,Both,375584,Y
+SL337,B.Sc (Physics),UG,3,Tier 1,4.5,3164,0,0,43685,0,Relative,Both,418213,N
+SL338,Civil Engineering,UG,4,Tier 2,9.6,3342,100000,1,14135,1,Parent,Both,832318,Y
+SL339,B.Com (Accounting),UG,3,Tier 1,4.5,7251,100000,0,18210,0,Parent,Tuition,666357,N
+SL340,AI & Robotics,UG,3,Tier 2,4.5,4271,100000,0,32579,1,Guardian,Both,289351,N
+SL341,Biotechnology Engineering,UG,4,Tier 1,8.7,4068,75000,1,27325,0,Relative,Living Expenses,696465,Y
+SL342,Civil Engineering,UG,4,Tier 1,8.9,6544,50000,1,32040,1,Parent,Tuition,993799,N
+SL343,LLB (Law),UG,5,Tier 3,6.7,4982,25000,0,14449,1,Relative,Both,208274,Y
+SL344,B.A (Philosophy),UG,3,Tier 2,5.7,6113,50000,0,28545,1,Relative,Tuition,696646,N
+SL345,Data Science Engineering,UG,4,Tier 1,5.9,5206,0,0,24059,1,Parent,Tuition,748367,N
+SL346,MBA (HR),Masters,2,Tier 2,4.5,10878,100000,0,57228,1,Parent,Tuition,1054790,N
+SL347,M.Sc (Mathematics),Masters,2,Tier 3,4.5,13983,25000,0,57259,1,Parent,Living Expenses,1809812,Y
+SL348,B.A (Philosophy),UG,3,Tier 3,4.5,7907,25000,0,43656,1,Parent,Living Expenses,591884,N
+SL349,Biotechnology Engineering,UG,4,Tier 2,9.7,6280,0,1,41579,1,Parent,Tuition,702002,Y
+SL350,B.Sc (Chemistry),UG,3,Tier 2,8.7,6342,0,1,20784,1,Parent,Both,968280,N
+SL351,B.Des (Product Design),UG,4,Tier 3,4.5,3289,0,0,27494,1,Parent,Tuition,764130,Y
+SL352,M.Tech (Data Science),Masters,2,Tier 3,7.9,3606,75000,0,12941,1,Guardian,Tuition,654843,N
+SL353,Biotechnology Engineering,UG,4,Tier 3,4.5,7944,50000,0,20620,1,Parent,Tuition,939385,N
+SL354,M.A (Economics),Masters,2,Tier 2,4.5,12174,0,0,11672,0,Parent,Both,1736010,N
+SL355,B.Com (Banking & Finance),UG,3,Tier 1,4.5,843,75000,0,59568,1,Parent,Living Expenses,509198,Y
+SL356,B.Com (Banking & Finance),UG,3,Tier 2,4.5,4603,75000,0,48643,1,Parent,Both,508405,N
+SL357,LLB (Law),UG,5,Tier 2,7.4,3026,25000,0,44871,1,Parent,Tuition,717192,N
+SL358,M.Tech (Data Science),Masters,2,Tier 1,4.5,12524,0,0,11522,0,Relative,Tuition,1399811,Y
+SL359,Biotechnology Engineering,UG,4,Tier 3,6.3,3535,150000,0,24821,1,Parent,Living Expenses,634946,Y
+SL360,Electronics Engineering,UG,4,Tier 3,4.5,4519,50000,0,22086,1,Guardian,Both,519418,N
+SL361,M.Sc (Mathematics),Masters,2,Tier 3,8.7,6629,100000,1,59398,1,Parent,Living Expenses,1450510,Y
+SL362,B.A (Philosophy),UG,3,Tier 1,4.5,1108,75000,0,42365,0,Sibling,Both,338478,N
+SL363,Aerospace Engineering,UG,4,Tier 3,8.0,2105,150000,1,59641,1,Parent,Both,268539,Y
+SL364,B.Ed (Education),UG,2,Tier 1,4.5,7336,50000,0,27183,1,Parent,Tuition,587730,Y
+SL365,B.Com (Banking & Finance),UG,3,Tier 2,4.5,7154,50000,0,49902,0,Guardian,Both,293846,N
+SL366,B.Sc (Mathematics),UG,3,Tier 2,4.5,3681,50000,0,48892,1,Parent,Living Expenses,789889,Y
+SL367,Mechanical Engineering,UG,4,Tier 1,8.8,5295,100000,1,14453,1,Parent,Tuition,646800,N
+SL368,B.Ed (Education),UG,2,Tier 1,4.5,2093,100000,0,30446,0,Parent,Tuition,230122,Y
+SL369,BDS (Dentistry),UG,5,Tier 1,4.5,7845,150000,0,39654,1,Guardian,Both,420813,Y
+SL370,M.Sc (Physics),Masters,2,Tier 3,5.9,5149,50000,0,19901,0,Parent,Both,1146057,Y
+SL371,B.A (English Literature),UG,3,Tier 2,6.4,3708,0,0,41169,0,Sibling,Both,986558,Y
+SL372,Mechanical Engineering,UG,4,Tier 1,9.2,2613,0,1,12680,1,Parent,Both,134744,Y
+SL373,MBBS (Medicine),UG,5,Tier 1,5.3,2068,75000,0,16697,0,Relative,Tuition,652794,Y
+SL374,B.Sc (Mathematics),UG,3,Tier 1,4.5,3726,50000,0,51301,1,Parent,Living Expenses,360479,Y
+SL375,B.Sc (Physics),UG,3,Tier 1,4.5,5335,150000,0,43709,1,Parent,Both,821877,N
+SL376,MBA (Finance),Masters,2,Tier 2,6.1,5078,75000,0,30569,1,Parent,Both,608062,Y
+SL377,Automobile Engineering,UG,4,Tier 3,5.8,7405,100000,0,11600,1,Parent,Both,756482,Y
+SL378,Chemical Engineering,UG,4,Tier 1,6.6,648,0,0,40993,1,Relative,Both,232801,Y
+SL379,Aerospace Engineering,UG,4,Tier 3,4.5,5938,75000,0,18567,0,Parent,Tuition,245865,N
+SL380,Data Science Engineering,UG,4,Tier 2,5.0,5375,75000,0,58130,1,Parent,Living Expenses,429869,Y
+SL381,B.A (History),UG,3,Tier 2,8.3,5636,150000,1,18577,0,Sibling,Tuition,847818,Y
+SL382,Computer Engineering,UG,4,Tier 3,5.2,3185,50000,0,22449,0,Parent,Both,836717,Y
+SL383,AI & Robotics,UG,3,Tier 3,4.5,3860,0,0,38662,1,Parent,Both,386510,N
+SL384,Aerospace Engineering,UG,4,Tier 1,7.9,4592,100000,1,37142,1,Relative,Living Expenses,636548,Y
+SL385,Computer Engineering,UG,4,Tier 3,4.5,4855,75000,0,39457,1,Parent,Both,791931,Y
+SL386,BDS (Dentistry),UG,5,Tier 1,4.5,5168,25000,0,12935,1,Guardian,Tuition,392584,N
+SL387,B.Sc (Physics),UG,3,Tier 3,7.5,3811,0,0,16637,0,Parent,Tuition,521513,Y
+SL388,MBA (Marketing),Masters,2,Tier 1,6.5,11434,0,0,34048,1,Parent,Both,763825,N
+SL389,B.Des (Product Design),UG,4,Tier 2,9.8,4602,25000,1,19937,1,Parent,Tuition,980272,Y
+SL390,Data Science Engineering,UG,4,Tier 2,4.5,3081,50000,0,18664,1,Guardian,Tuition,148430,N
+SL391,MBA (Finance),Masters,2,Tier 1,9.0,11070,50000,1,25959,0,Parent,Tuition,639361,Y
+SL392,AI & Robotics,UG,3,Tier 2,4.5,4706,50000,0,24272,1,Parent,Tuition,492277,N
+SL393,MBA (Marketing),Masters,2,Tier 1,4.5,8555,50000,0,16969,0,Parent,Tuition,1945496,N
+SL394,B.Sc (Chemistry),UG,3,Tier 1,7.1,6151,50000,1,43641,0,Parent,Both,299480,Y
+SL395,B.Des (Product Design),UG,4,Tier 3,8.3,6461,150000,1,24607,1,Parent,Living Expenses,174367,Y
+SL396,BDS (Dentistry),UG,5,Tier 3,5.5,2776,0,0,25933,1,Parent,Tuition,296345,Y
+SL397,Mechanical Engineering,UG,4,Tier 2,9.7,5607,100000,1,24993,1,Relative,Living Expenses,884763,Y
+SL398,B.Com (Accounting),UG,3,Tier 2,4.5,3517,150000,0,31488,1,Parent,Both,727005,Y
+SL399,B.Com (Banking & Finance),UG,3,Tier 3,6.2,1381,50000,0,32824,0,Parent,Living Expenses,196946,Y
+SL400,BDS (Dentistry),UG,5,Tier 1,4.8,2889,25000,0,50479,1,Parent,Living Expenses,513809,N
+SL401,Computer Engineering,UG,4,Tier 1,6.4,398,100000,0,36887,1,Parent,Tuition,953721,Y
+SL402,M.Sc (Physics),Masters,2,Tier 2,4.5,5747,150000,0,59811,0,Guardian,Tuition,524276,Y
+SL403,M.Tech (Data Science),Masters,2,Tier 3,6.6,2774,0,0,26858,0,Parent,Both,1761942,N
+SL404,MCA (Computer Applications),Masters,3,Tier 1,7.8,14820,50000,1,21992,0,Relative,Both,666969,Y
+SL405,MBA (Marketing),Masters,2,Tier 1,5.6,10329,25000,0,38377,1,Parent,Tuition,934982,N
+SL406,Aerospace Engineering,UG,4,Tier 2,9.3,7519,0,1,10332,1,Parent,Both,112575,Y
+SL407,B.Com (Banking & Finance),UG,3,Tier 2,7.0,5081,0,0,54463,1,Guardian,Tuition,746546,N
+SL408,M.A (Economics),Masters,2,Tier 3,4.5,2978,100000,0,42716,1,Guardian,Tuition,1316269,Y
+SL409,Automobile Engineering,UG,4,Tier 2,5.4,3985,50000,0,49725,1,Guardian,Tuition,251706,Y
+SL410,M.Tech (Data Science),Masters,2,Tier 1,4.5,11951,150000,0,43017,1,Parent,Living Expenses,966621,N
+SL411,Electronics Engineering,UG,4,Tier 2,4.5,4810,0,0,40756,1,Parent,Both,150763,N
+SL412,Electrical Engineering,UG,4,Tier 1,7.7,7895,0,1,56675,1,Sibling,Living Expenses,493920,N
+SL413,Biotechnology Engineering,UG,4,Tier 1,4.5,6829,150000,0,40773,1,Relative,Living Expenses,401810,N
+SL414,Computer Engineering,UG,4,Tier 3,4.5,4843,0,0,45892,1,Guardian,Both,578629,N
+SL415,Mechanical Engineering,UG,4,Tier 1,9.1,3244,50000,1,24640,1,Relative,Both,644075,Y
+SL416,MBBS (Medicine),UG,5,Tier 3,5.6,5794,50000,0,38469,1,Parent,Both,414170,Y
+SL417,B.Sc (Chemistry),UG,3,Tier 2,8.2,4180,100000,1,21062,0,Guardian,Living Expenses,414186,N
+SL418,Civil Engineering,UG,4,Tier 2,4.5,2190,50000,0,22199,0,Parent,Tuition,735632,Y
+SL419,AI & Robotics,UG,3,Tier 3,5.9,5087,75000,0,40058,0,Parent,Living Expenses,634847,N
+SL420,LLB (Law),UG,5,Tier 3,7.6,5668,50000,0,45751,1,Relative,Tuition,459548,N
+SL421,Information Technology,UG,3,Tier 1,4.8,6292,0,0,48865,1,Guardian,Both,914885,Y
+SL422,Biotechnology Engineering,UG,4,Tier 2,9.8,4399,75000,1,49747,1,Parent,Tuition,181676,N
+SL423,MCA (Computer Applications),Masters,3,Tier 3,4.5,6540,0,0,52682,1,Guardian,Tuition,1670741,Y
+SL424,Mechanical Engineering,UG,4,Tier 1,9.2,5464,100000,1,11764,1,Parent,Tuition,610636,Y
+SL425,Biotechnology Engineering,UG,4,Tier 3,9.8,3646,75000,1,26790,1,Parent,Both,528198,N
+SL426,BDS (Dentistry),UG,5,Tier 3,5.6,4929,50000,0,57374,1,Guardian,Tuition,101754,N
+SL427,B.Com (Accounting),UG,3,Tier 3,7.2,3690,25000,0,43592,1,Sibling,Living Expenses,726422,Y
+SL428,BBA (Management Studies),UG,3,Tier 1,4.5,2935,50000,0,37941,0,Relative,Both,477187,N
+SL429,M.A (Economics),Masters,2,Tier 1,5.6,6447,50000,0,15988,1,Relative,Both,1894998,N
+SL430,M.Tech (Data Science),Masters,2,Tier 3,4.5,12036,25000,0,11691,0,Sibling,Tuition,1958745,N
+SL431,B.Sc (Mathematics),UG,3,Tier 2,8.7,7947,100000,1,13772,0,Sibling,Both,416256,N
+SL432,MBA (HR),Masters,2,Tier 2,8.2,11033,100000,1,11479,0,Parent,Living Expenses,1622637,Y
+SL433,B.A (Philosophy),UG,3,Tier 1,4.5,4236,50000,0,25320,0,Parent,Tuition,933493,N
+SL434,Computer Engineering,UG,4,Tier 2,4.5,6494,50000,0,34526,1,Guardian,Both,172650,Y
+SL435,M.Tech (Data Science),Masters,2,Tier 2,6.1,13312,75000,0,42354,1,Guardian,Both,1418246,Y
+SL436,Electrical Engineering,UG,4,Tier 2,6.2,2140,50000,0,58036,0,Parent,Both,689636,Y
+SL437,B.A (History),UG,3,Tier 1,4.7,695,25000,0,30012,0,Parent,Both,924102,N
+SL438,B.A (History),UG,3,Tier 3,7.3,245,100000,0,14039,0,Parent,Tuition,971672,N
+SL439,BBA (Management Studies),UG,3,Tier 1,9.3,6467,0,1,13475,1,Parent,Both,880038,N
+SL440,B.A (English Literature),UG,3,Tier 1,7.0,1038,25000,1,31796,1,Parent,Living Expenses,593269,Y
+SL441,M.A (Economics),Masters,2,Tier 3,9.8,5718,0,1,37433,1,Guardian,Tuition,1188989,N
+SL442,MBA (Marketing),Masters,2,Tier 2,8.1,2204,0,1,38406,0,Parent,Tuition,1440850,Y
+SL443,Civil Engineering,UG,4,Tier 2,5.7,1976,50000,0,18930,0,Parent,Living Expenses,212352,Y
+SL444,B.Sc (Physics),UG,3,Tier 1,9.5,6971,0,1,31912,0,Parent,Both,832819,Y
+SL445,B.Des (Product Design),UG,4,Tier 3,7.5,2941,0,0,19599,1,Parent,Tuition,245318,Y
+SL446,B.Com (Banking & Finance),UG,3,Tier 3,4.5,6982,25000,0,11947,1,Parent,Tuition,578596,N
+SL447,M.Tech (AI & Robotics),Masters,2,Tier 2,4.5,3041,25000,0,41841,1,Parent,Tuition,919190,Y
+SL448,M.Sc (Mathematics),Masters,2,Tier 1,4.5,2166,100000,0,12562,0,Sibling,Both,884028,N
+SL449,B.Sc (Chemistry),UG,3,Tier 1,7.3,6827,100000,1,32873,1,Guardian,Tuition,667647,Y
+SL450,M.Sc (Physics),Masters,2,Tier 2,9.1,14763,25000,1,30652,1,Guardian,Both,1566243,Y
+SL451,B.A (Philosophy),UG,3,Tier 1,4.5,7360,25000,0,43029,1,Parent,Living Expenses,818680,Y
+SL452,Aerospace Engineering,UG,4,Tier 1,8.7,1287,150000,1,19466,1,Relative,Both,110962,N
+SL453,Electrical Engineering,UG,4,Tier 1,4.5,542,50000,0,47481,1,Parent,Both,777119,N
+SL454,B.A (English Literature),UG,3,Tier 3,5.8,7932,100000,0,47353,0,Relative,Both,266346,N
+SL455,M.Sc (Mathematics),Masters,2,Tier 3,4.5,8948,150000,0,25376,1,Sibling,Both,1918172,Y
+SL456,M.Tech (AI & Robotics),Masters,2,Tier 3,4.5,10590,150000,0,53181,1,Parent,Both,1042587,N
+SL457,BDS (Dentistry),UG,5,Tier 1,7.4,1589,0,1,20567,1,Parent,Both,196147,Y
+SL458,B.Ed (Education),UG,2,Tier 1,6.4,4920,25000,0,39351,0,Parent,Both,189021,N
+SL459,M.A (Economics),Masters,2,Tier 3,4.5,8104,50000,0,34600,1,Guardian,Tuition,1071008,Y
+SL460,MCA (Computer Applications),Masters,3,Tier 3,7.0,4429,25000,1,40878,0,Sibling,Living Expenses,762364,N
+SL461,M.Sc (Mathematics),Masters,2,Tier 1,8.2,12716,75000,1,19048,1,Parent,Tuition,1867335,Y
+SL462,B.Com (Banking & Finance),UG,3,Tier 3,5.8,7422,75000,0,21695,1,Guardian,Both,510853,Y
+SL463,Electronics Engineering,UG,4,Tier 3,5.6,445,25000,0,41791,0,Guardian,Tuition,218834,N
+SL464,M.Sc (Physics),Masters,2,Tier 3,9.8,7608,100000,1,29030,0,Parent,Living Expenses,1692426,Y
+SL465,B.Des (Product Design),UG,4,Tier 3,7.2,2301,75000,0,48262,1,Parent,Living Expenses,861299,Y
+SL466,Biotechnology Engineering,UG,4,Tier 1,6.4,235,100000,0,41192,1,Relative,Living Expenses,129940,Y
+SL467,Chemical Engineering,UG,4,Tier 2,4.7,1862,100000,0,50322,0,Parent,Tuition,976574,Y
+SL468,B.A (English Literature),UG,3,Tier 2,8.9,5384,75000,1,20542,1,Parent,Living Expenses,908930,N
+SL469,B.Sc (Mathematics),UG,3,Tier 2,7.2,3874,50000,0,35985,1,Guardian,Both,491677,Y
+SL470,MBBS (Medicine),UG,5,Tier 2,9.2,1865,50000,1,57225,1,Parent,Tuition,153233,Y
+SL471,M.Tech (Data Science),Masters,2,Tier 2,5.0,14773,150000,0,25722,1,Parent,Both,1698766,Y
+SL472,B.Ed (Education),UG,2,Tier 2,9.7,6365,0,1,24067,1,Guardian,Tuition,576631,Y
+SL473,M.A (Economics),Masters,2,Tier 2,4.5,2732,75000,0,55146,1,Parent,Both,582186,Y
+SL474,M.Sc (Physics),Masters,2,Tier 3,8.0,10777,25000,1,27943,0,Parent,Both,615653,Y
+SL475,Automobile Engineering,UG,4,Tier 2,4.5,3884,150000,0,52705,1,Parent,Both,641467,N
+SL476,MBBS (Medicine),UG,5,Tier 2,8.2,4284,0,1,57389,1,Parent,Both,497761,N
+SL477,Automobile Engineering,UG,4,Tier 1,7.7,7910,0,1,58721,0,Parent,Living Expenses,461388,N
+SL478,B.Com (Accounting),UG,3,Tier 1,8.7,401,100000,1,57040,1,Parent,Living Expenses,231711,Y
+SL479,Mechanical Engineering,UG,4,Tier 1,4.5,3363,50000,0,48645,1,Guardian,Tuition,431467,N
+SL480,Civil Engineering,UG,4,Tier 2,4.5,6237,50000,0,29598,1,Parent,Living Expenses,924703,N
+SL481,B.A (English Literature),UG,3,Tier 3,5.0,4997,25000,0,14776,1,Parent,Living Expenses,507807,Y
+SL482,B.Sc (Mathematics),UG,3,Tier 1,4.5,5826,50000,0,55332,0,Parent,Tuition,962526,Y
+SL483,MCA (Computer Applications),Masters,3,Tier 3,6.9,8158,100000,0,38210,1,Parent,Both,593653,N
+SL484,Automobile Engineering,UG,4,Tier 1,6.4,1586,0,0,48533,1,Parent,Both,373527,Y
+SL485,Electronics Engineering,UG,4,Tier 2,7.0,746,75000,1,47620,1,Sibling,Both,838100,Y
+SL486,MBA (HR),Masters,2,Tier 1,4.5,11469,50000,0,22043,1,Parent,Tuition,732646,Y
+SL487,M.Sc (Physics),Masters,2,Tier 2,7.7,8027,100000,0,28357,0,Parent,Both,1030840,N
+SL488,MCA (Computer Applications),Masters,3,Tier 2,7.1,9278,25000,1,44537,0,Guardian,Both,818210,N
+SL489,Data Science Engineering,UG,4,Tier 1,7.6,2314,75000,1,52508,0,Parent,Tuition,614704,N
+SL490,Biotechnology Engineering,UG,4,Tier 2,4.5,3941,25000,0,31808,0,Guardian,Both,629442,Y
+SL491,Chemical Engineering,UG,4,Tier 2,4.5,4250,0,0,14190,1,Relative,Both,617842,N
+SL492,B.A (History),UG,3,Tier 2,7.5,335,100000,0,25762,0,Parent,Tuition,122457,N
+SL493,Information Technology,UG,3,Tier 3,5.3,1044,25000,0,20723,0,Parent,Tuition,345474,Y
+SL494,B.Com (Banking & Finance),UG,3,Tier 1,4.5,3205,50000,0,58585,0,Parent,Living Expenses,149022,Y
+SL495,M.Sc (Physics),Masters,2,Tier 3,8.7,3924,100000,1,15582,1,Sibling,Both,1437350,N
+SL496,Data Science Engineering,UG,4,Tier 1,9.5,5246,50000,1,32821,1,Relative,Both,517261,N
+SL497,Biotechnology Engineering,UG,4,Tier 3,8.3,4808,75000,1,10774,1,Relative,Living Expenses,576390,Y
+SL498,M.Tech (AI & Robotics),Masters,2,Tier 1,5.7,10582,100000,0,15879,1,Sibling,Tuition,1476024,N
+SL499,M.Sc (Mathematics),Masters,2,Tier 1,8.3,6775,50000,1,21690,1,Parent,Both,1487136,Y
+SL500,MBA (Marketing),Masters,2,Tier 3,4.9,10655,50000,0,17081,1,Relative,Tuition,641794,Y
+SL501,M.Sc (Mathematics),Masters,2,Tier 1,7.5,14049,0,1,45191,1,Sibling,Both,1138170,N
+SL502,B.Des (Product Design),UG,4,Tier 1,9.0,6215,75000,1,28847,0,Guardian,Tuition,576160,Y
+SL503,B.Des (Product Design),UG,4,Tier 1,4.5,5874,100000,0,49041,1,Guardian,Tuition,814557,N
+SL504,Electronics Engineering,UG,4,Tier 2,6.3,2125,50000,0,40573,0,Parent,Living Expenses,980108,Y
+SL505,Civil Engineering,UG,4,Tier 2,8.1,3028,25000,1,16463,0,Guardian,Tuition,654563,Y
+SL506,MBA (Finance),Masters,2,Tier 1,9.5,4623,0,1,36580,1,Parent,Both,818756,N
+SL507,MCA (Computer Applications),Masters,3,Tier 2,4.5,9581,100000,0,41992,1,Parent,Tuition,1242270,Y
+SL508,B.A (History),UG,3,Tier 1,5.8,3585,25000,0,24369,0,Guardian,Living Expenses,141797,N
+SL509,M.Tech (Data Science),Masters,2,Tier 2,6.8,3781,25000,0,40405,1,Parent,Both,1684155,N
+SL510,M.A (Economics),Masters,2,Tier 3,8.5,12067,150000,1,32875,1,Parent,Both,1362575,N
+SL511,B.Sc (Physics),UG,3,Tier 2,8.1,6653,75000,1,22834,1,Relative,Tuition,577080,N
+SL512,M.Tech (AI & Robotics),Masters,2,Tier 3,4.5,13386,100000,0,41942,1,Guardian,Both,1791252,Y
+SL513,B.Com (Accounting),UG,3,Tier 1,8.5,7769,150000,1,21905,1,Parent,Tuition,577135,Y
+SL514,Biotechnology Engineering,UG,4,Tier 1,4.5,4493,0,0,19276,1,Relative,Both,336098,N
+SL515,B.A (English Literature),UG,3,Tier 3,4.5,561,0,0,30408,0,Parent,Tuition,302080,Y
+SL516,Electrical Engineering,UG,4,Tier 1,4.5,5106,25000,0,59225,1,Parent,Both,249426,Y
+SL517,B.Sc (Mathematics),UG,3,Tier 1,6.2,58,150000,0,50526,1,Sibling,Tuition,905755,Y
+SL518,Data Science Engineering,UG,4,Tier 2,5.1,7174,0,0,47909,1,Parent,Living Expenses,673503,N
+SL519,Biotechnology Engineering,UG,4,Tier 2,4.5,4972,100000,0,34716,1,Parent,Living Expenses,408499,Y
+SL520,MCA (Computer Applications),Masters,3,Tier 2,4.5,5351,100000,0,55871,1,Parent,Both,1886328,Y
+SL521,Data Science Engineering,UG,4,Tier 3,4.5,7801,0,0,33684,1,Sibling,Tuition,256390,Y
+SL522,Biotechnology Engineering,UG,4,Tier 1,9.7,7431,50000,1,18920,1,Relative,Both,755484,N
+SL523,Chemical Engineering,UG,4,Tier 1,4.5,5268,150000,0,50255,1,Guardian,Living Expenses,157765,Y
+SL524,B.Com (Banking & Finance),UG,3,Tier 1,9.3,5712,0,1,24477,1,Parent,Living Expenses,373862,N
+SL525,Electronics Engineering,UG,4,Tier 1,4.5,5386,75000,0,19885,1,Guardian,Both,977008,Y
+SL526,B.Sc (Physics),UG,3,Tier 2,5.4,2687,100000,0,43534,0,Parent,Tuition,838801,N
+SL527,Electronics Engineering,UG,4,Tier 3,4.5,4034,0,0,58096,1,Parent,Tuition,306215,Y
+SL528,AI & Robotics,UG,3,Tier 2,6.2,7698,25000,0,55397,1,Guardian,Tuition,868090,N
+SL529,Electrical Engineering,UG,4,Tier 3,5.6,2557,0,0,45383,1,Guardian,Living Expenses,894175,N
+SL530,Computer Engineering,UG,4,Tier 2,4.5,2073,50000,0,51939,1,Parent,Tuition,966361,N
+SL531,B.Sc (Physics),UG,3,Tier 1,5.2,2737,0,0,27407,1,Guardian,Tuition,659915,Y
+SL532,Mechanical Engineering,UG,4,Tier 2,4.5,5468,25000,0,51440,1,Parent,Tuition,146793,Y
+SL533,Automobile Engineering,UG,4,Tier 1,4.7,4650,75000,0,46730,1,Parent,Both,563140,Y
+SL534,MBA (Finance),Masters,2,Tier 1,4.5,2431,0,0,37054,1,Parent,Both,563684,Y
+SL535,MBA (Finance),Masters,2,Tier 2,4.5,5415,0,0,38699,1,Parent,Tuition,1614051,Y
+SL536,M.A (Economics),Masters,2,Tier 1,7.1,12143,75000,1,39131,1,Guardian,Tuition,580265,Y
+SL537,MBBS (Medicine),UG,5,Tier 2,9.8,5638,50000,1,29676,0,Parent,Tuition,183618,N
+SL538,M.Sc (Physics),Masters,2,Tier 1,4.5,11899,0,0,49360,1,Parent,Both,1319406,N
+SL539,Chemical Engineering,UG,4,Tier 3,4.5,6914,150000,0,58544,1,Guardian,Living Expenses,959212,N
+SL540,Electronics Engineering,UG,4,Tier 1,7.0,7618,50000,1,22828,1,Parent,Living Expenses,905409,Y
+SL541,Aerospace Engineering,UG,4,Tier 1,6.8,6828,25000,0,26675,0,Parent,Tuition,302243,N
+SL542,B.A (History),UG,3,Tier 2,6.6,7635,0,0,13770,1,Sibling,Tuition,892976,Y
+SL543,BDS (Dentistry),UG,5,Tier 2,4.5,2705,150000,0,36870,1,Guardian,Tuition,290011,Y
+SL544,Electronics Engineering,UG,4,Tier 1,7.1,1428,150000,1,35192,0,Sibling,Tuition,238586,N
+SL545,Chemical Engineering,UG,4,Tier 3,7.5,1411,75000,1,55318,1,Parent,Both,875564,N
+SL546,Civil Engineering,UG,4,Tier 1,4.5,1592,150000,0,29152,1,Sibling,Both,592496,N
+SL547,Mechanical Engineering,UG,4,Tier 1,4.5,4637,150000,0,19839,0,Parent,Living Expenses,690343,Y
+SL548,AI & Robotics,UG,3,Tier 1,4.5,3075,100000,0,21000,1,Parent,Tuition,319478,Y
+SL549,B.A (History),UG,3,Tier 3,8.6,752,0,1,19088,0,Parent,Both,577879,Y
+SL550,Computer Engineering,UG,4,Tier 1,4.5,139,50000,0,14011,1,Sibling,Living Expenses,152739,N
+SL551,Automobile Engineering,UG,4,Tier 2,6.9,3649,0,0,36391,0,Parent,Both,744108,Y
+SL552,B.Com (Accounting),UG,3,Tier 2,4.5,6829,50000,0,39105,1,Relative,Both,527433,Y
+SL553,Data Science Engineering,UG,4,Tier 3,4.9,7506,0,0,13248,1,Parent,Tuition,426169,Y
+SL554,MBA (Finance),Masters,2,Tier 1,4.5,12913,100000,0,14965,1,Parent,Tuition,854157,Y
+SL555,LLB (Law),UG,5,Tier 1,8.6,5037,0,1,18885,1,Guardian,Both,172295,Y
+SL556,Mechanical Engineering,UG,4,Tier 1,8.1,5257,25000,1,57459,1,Parent,Both,589075,Y
+SL557,B.Com (Banking & Finance),UG,3,Tier 2,5.7,5916,50000,0,30679,0,Sibling,Tuition,276959,N
+SL558,MBA (Finance),Masters,2,Tier 2,4.5,4522,25000,0,40982,1,Sibling,Living Expenses,1416264,N
+SL559,AI & Robotics,UG,3,Tier 2,5.1,7244,75000,0,57612,1,Guardian,Tuition,973768,Y
+SL560,Chemical Engineering,UG,4,Tier 2,5.3,1728,0,0,46115,0,Parent,Both,882343,N
+SL561,BDS (Dentistry),UG,5,Tier 2,4.5,4511,0,0,56148,1,Guardian,Tuition,476868,N
+SL562,MCA (Computer Applications),Masters,3,Tier 3,4.5,11260,75000,0,35367,1,Guardian,Both,1756041,Y
+SL563,M.Tech (Data Science),Masters,2,Tier 2,8.8,2333,0,1,49559,1,Sibling,Living Expenses,659104,N
+SL564,B.Com (Accounting),UG,3,Tier 2,9.4,6208,0,1,19019,0,Relative,Tuition,415416,Y
+SL565,MBA (Finance),Masters,2,Tier 3,4.5,9014,50000,0,12880,1,Parent,Both,1331471,N
+SL566,Computer Engineering,UG,4,Tier 2,5.0,7728,25000,0,32287,1,Sibling,Both,204751,Y
+SL567,Mechanical Engineering,UG,4,Tier 2,4.5,5850,100000,0,51875,1,Parent,Tuition,690688,Y
+SL568,Electrical Engineering,UG,4,Tier 3,9.0,1171,25000,1,33997,1,Parent,Both,864900,Y
+SL569,Electrical Engineering,UG,4,Tier 2,4.5,4588,0,0,52302,1,Parent,Both,174046,N
+SL570,Information Technology,UG,3,Tier 1,4.5,137,25000,0,17079,0,Sibling,Tuition,714395,N
+SL571,Civil Engineering,UG,4,Tier 2,9.3,6413,75000,1,38559,1,Parent,Both,712201,Y
+SL572,M.Tech (Data Science),Masters,2,Tier 1,8.2,13507,150000,1,18631,0,Relative,Both,1857249,Y
+SL573,B.A (History),UG,3,Tier 2,8.0,1534,75000,1,31953,0,Parent,Tuition,985543,Y
+SL574,B.Sc (Physics),UG,3,Tier 2,8.8,7336,25000,1,41036,1,Parent,Both,202958,Y
+SL575,MBA (HR),Masters,2,Tier 3,4.5,3629,0,0,44752,0,Sibling,Tuition,1595499,N
+SL576,B.A (Philosophy),UG,3,Tier 3,6.1,3664,0,0,12351,1,Guardian,Living Expenses,786331,N
+SL577,B.Sc (Chemistry),UG,3,Tier 2,4.5,5272,150000,0,19096,1,Parent,Both,131576,Y
+SL578,LLB (Law),UG,5,Tier 2,4.5,2789,50000,0,16503,0,Parent,Both,359444,N
+SL579,MBA (Marketing),Masters,2,Tier 2,9.6,10573,75000,1,12435,1,Guardian,Tuition,1109596,Y
+SL580,B.Com (Banking & Finance),UG,3,Tier 1,5.3,7532,50000,0,32941,1,Parent,Both,963641,N
+SL581,AI & Robotics,UG,3,Tier 2,6.1,1094,25000,0,30830,1,Guardian,Tuition,326527,Y
+SL582,BDS (Dentistry),UG,5,Tier 1,6.9,4828,75000,0,50606,0,Parent,Both,292146,N
+SL583,BBA (Management Studies),UG,3,Tier 3,6.1,2176,50000,0,48315,1,Sibling,Tuition,589759,Y
+SL584,Mechanical Engineering,UG,4,Tier 2,5.1,4978,75000,0,32602,0,Parent,Both,573522,Y
+SL585,MCA (Computer Applications),Masters,3,Tier 3,5.7,6197,50000,0,17940,1,Sibling,Living Expenses,1401203,N
+SL586,B.Ed (Education),UG,2,Tier 3,8.1,3648,25000,1,24819,1,Guardian,Living Expenses,541350,Y
+SL587,M.Sc (Physics),Masters,2,Tier 3,4.5,2452,0,0,44671,0,Parent,Both,1934382,Y
+SL588,Electrical Engineering,UG,4,Tier 1,8.6,2400,25000,1,45655,1,Relative,Living Expenses,860262,N
+SL589,B.Ed (Education),UG,2,Tier 3,4.5,2217,75000,0,59179,0,Guardian,Both,756404,N
+SL590,LLB (Law),UG,5,Tier 3,6.3,2681,25000,0,54309,1,Parent,Tuition,851120,N
+SL591,MBA (Marketing),Masters,2,Tier 1,6.8,8411,75000,0,29536,1,Parent,Both,1315695,N
+SL592,M.Tech (Data Science),Masters,2,Tier 2,4.5,6598,50000,0,31692,0,Parent,Living Expenses,801049,Y
+SL593,MBBS (Medicine),UG,5,Tier 2,4.5,6611,100000,0,28795,0,Parent,Both,360960,Y
+SL594,M.Tech (Data Science),Masters,2,Tier 1,9.5,11300,50000,1,32547,0,Parent,Living Expenses,1279328,Y
+SL595,MCA (Computer Applications),Masters,3,Tier 1,8.5,13829,75000,1,25233,0,Parent,Both,1971797,Y
+SL596,M.Sc (Mathematics),Masters,2,Tier 3,8.3,2779,150000,1,43131,1,Guardian,Both,1535927,Y
+SL597,LLB (Law),UG,5,Tier 1,7.3,2738,25000,1,20020,0,Sibling,Tuition,440076,Y
+SL598,MBA (HR),Masters,2,Tier 1,4.5,9507,50000,0,32059,1,Parent,Living Expenses,1085259,N
+SL599,M.Tech (AI & Robotics),Masters,2,Tier 2,4.5,2735,100000,0,36968,1,Parent,Both,986385,Y
+SL600,MBA (Marketing),Masters,2,Tier 1,6.2,2978,75000,0,19125,0,Guardian,Tuition,1437772,Y
+SL601,Aerospace Engineering,UG,4,Tier 2,9.1,6641,0,1,28810,1,Parent,Tuition,351657,Y
+SL602,B.Des (Product Design),UG,4,Tier 2,7.5,6460,50000,0,33865,1,Parent,Both,727927,N
+SL603,M.A (Economics),Masters,2,Tier 1,4.5,6570,50000,0,49926,1,Parent,Both,949994,Y
+SL604,B.Ed (Education),UG,2,Tier 1,4.5,420,100000,0,21690,1,Parent,Tuition,975681,Y
+SL605,Aerospace Engineering,UG,4,Tier 3,4.5,3819,50000,0,47406,0,Parent,Living Expenses,769066,Y
+SL606,B.Sc (Mathematics),UG,3,Tier 1,5.6,4049,100000,0,49095,1,Parent,Tuition,733109,Y
+SL607,BBA (Management Studies),UG,3,Tier 2,4.5,4290,50000,0,53825,1,Sibling,Living Expenses,534018,Y
+SL608,Electronics Engineering,UG,4,Tier 2,5.9,7621,100000,0,37004,1,Parent,Both,485472,Y
+SL609,B.Ed (Education),UG,2,Tier 1,6.8,776,50000,0,20965,1,Parent,Both,857386,Y
+SL610,Mechanical Engineering,UG,4,Tier 2,9.4,4746,0,1,45629,1,Sibling,Both,173353,Y
+SL611,Electrical Engineering,UG,4,Tier 1,4.5,3463,25000,0,12122,1,Parent,Both,759328,Y
+SL612,B.Sc (Chemistry),UG,3,Tier 3,9.0,2088,0,1,51634,1,Relative,Both,656272,N
+SL613,Aerospace Engineering,UG,4,Tier 3,5.0,5666,75000,0,57247,1,Parent,Tuition,847130,Y
+SL614,BBA (Management Studies),UG,3,Tier 3,4.5,7933,25000,0,23374,1,Guardian,Tuition,246935,Y
+SL615,M.Tech (Data Science),Masters,2,Tier 2,8.1,4189,0,1,24008,1,Guardian,Both,777707,N
+SL616,B.Sc (Physics),UG,3,Tier 1,4.5,304,25000,0,56352,1,Parent,Tuition,460037,N
+SL617,MBBS (Medicine),UG,5,Tier 3,9.0,3699,25000,1,36456,1,Parent,Tuition,455001,N
+SL618,MBA (Finance),Masters,2,Tier 1,7.9,4245,0,1,58398,1,Relative,Tuition,972707,Y
+SL619,MCA (Computer Applications),Masters,3,Tier 3,4.5,8177,75000,0,52838,0,Parent,Tuition,1145694,Y
+SL620,Aerospace Engineering,UG,4,Tier 3,4.5,7926,50000,0,14958,0,Guardian,Tuition,353186,Y
+SL621,BBA (Management Studies),UG,3,Tier 1,4.5,1047,100000,0,28126,1,Guardian,Both,272304,Y
+SL622,MBA (HR),Masters,2,Tier 2,4.5,13314,150000,0,21666,1,Parent,Both,1621954,Y
+SL623,B.Sc (Chemistry),UG,3,Tier 2,9.3,7832,0,1,48386,1,Sibling,Both,723125,N
+SL624,Automobile Engineering,UG,4,Tier 1,9.4,1788,100000,1,41096,1,Sibling,Tuition,551978,N
+SL625,MBA (HR),Masters,2,Tier 1,8.0,4049,0,1,17572,0,Relative,Both,758930,N
+SL626,MBA (Finance),Masters,2,Tier 1,7.0,5751,0,1,16563,1,Sibling,Tuition,1976575,N
+SL627,B.A (English Literature),UG,3,Tier 3,7.9,2006,100000,0,24132,1,Parent,Tuition,291619,N
+SL628,Aerospace Engineering,UG,4,Tier 2,8.4,6830,0,1,39293,1,Sibling,Living Expenses,676947,N
+SL629,Electrical Engineering,UG,4,Tier 3,4.5,7030,100000,0,10315,1,Parent,Living Expenses,958204,N
+SL630,AI & Robotics,UG,3,Tier 3,4.5,2053,25000,0,51797,1,Sibling,Tuition,103811,Y
+SL631,B.Ed (Education),UG,2,Tier 2,7.8,2373,75000,0,53323,0,Parent,Both,884669,N
+SL632,Computer Engineering,UG,4,Tier 1,4.7,5413,100000,0,40594,0,Sibling,Both,816295,N
+SL633,B.A (English Literature),UG,3,Tier 2,9.6,6538,0,1,50069,1,Parent,Tuition,433406,Y
+SL634,B.Com (Banking & Finance),UG,3,Tier 1,7.1,7058,25000,1,58561,0,Parent,Living Expenses,739270,Y
+SL635,Information Technology,UG,3,Tier 2,8.2,3154,50000,1,33177,0,Parent,Both,422496,Y
+SL636,Information Technology,UG,3,Tier 3,4.5,7674,150000,0,11789,0,Parent,Both,960916,Y
+SL637,M.A (Economics),Masters,2,Tier 3,4.5,11658,0,0,12222,1,Sibling,Living Expenses,1859866,Y
+SL638,B.Com (Accounting),UG,3,Tier 1,4.5,1477,0,0,15437,1,Parent,Both,335326,Y
+SL639,MBA (Marketing),Masters,2,Tier 2,4.5,5212,50000,0,39452,0,Parent,Tuition,1154677,N
+SL640,M.Tech (Data Science),Masters,2,Tier 1,8.8,12820,50000,1,47821,1,Guardian,Both,1569301,Y
+SL641,B.A (Philosophy),UG,3,Tier 2,4.5,1775,50000,0,23802,0,Parent,Both,570219,Y
+SL642,Civil Engineering,UG,4,Tier 1,4.5,3670,0,0,41835,0,Guardian,Tuition,768095,Y
+SL643,BBA (Management Studies),UG,3,Tier 3,4.5,1416,100000,0,21752,0,Guardian,Living Expenses,850599,Y
+SL644,Chemical Engineering,UG,4,Tier 1,4.9,1051,150000,0,42444,1,Sibling,Both,107337,Y
+SL645,B.A (History),UG,3,Tier 2,5.2,3639,75000,0,19579,1,Parent,Living Expenses,579623,Y
+SL646,AI & Robotics,UG,3,Tier 2,6.0,5235,50000,0,54810,1,Parent,Living Expenses,660693,Y
+SL647,B.Sc (Physics),UG,3,Tier 1,4.5,5910,0,0,49865,1,Guardian,Tuition,411469,N
+SL648,B.Com (Banking & Finance),UG,3,Tier 3,4.5,1810,50000,0,56483,1,Parent,Living Expenses,914494,Y
+SL649,Electronics Engineering,UG,4,Tier 2,4.5,4420,50000,0,19829,1,Relative,Tuition,489845,Y
+SL650,B.Com (Banking & Finance),UG,3,Tier 2,4.7,1355,100000,0,25772,1,Parent,Tuition,472851,Y
+SL651,B.Com (Accounting),UG,3,Tier 2,4.5,2037,25000,0,50736,1,Parent,Tuition,372686,Y
+SL652,LLB (Law),UG,5,Tier 2,9.5,4367,150000,1,37110,0,Parent,Living Expenses,926651,Y
+SL653,AI & Robotics,UG,3,Tier 1,4.5,4867,25000,0,17131,1,Parent,Tuition,514891,N
+SL654,Electronics Engineering,UG,4,Tier 3,4.5,5236,50000,0,18667,1,Guardian,Tuition,353645,N
+SL655,AI & Robotics,UG,3,Tier 1,6.2,204,0,0,36570,0,Parent,Both,703161,Y
+SL656,Civil Engineering,UG,4,Tier 2,4.5,598,50000,0,34425,1,Guardian,Both,266196,Y
+SL657,B.Com (Accounting),UG,3,Tier 1,9.4,6014,75000,1,58707,1,Parent,Tuition,221916,N
+SL658,Aerospace Engineering,UG,4,Tier 2,9.3,3531,50000,1,19435,1,Sibling,Tuition,264290,N
+SL659,Mechanical Engineering,UG,4,Tier 2,6.0,3261,50000,0,59010,0,Sibling,Tuition,127556,N
+SL660,Biotechnology Engineering,UG,4,Tier 1,8.6,5011,50000,1,13724,0,Parent,Living Expenses,933132,Y
+SL661,BDS (Dentistry),UG,5,Tier 1,4.5,6230,50000,0,39849,1,Parent,Both,700498,Y
+SL662,M.Sc (Mathematics),Masters,2,Tier 3,6.6,12845,50000,0,54288,1,Parent,Both,1812713,N
+SL663,MBBS (Medicine),UG,5,Tier 1,8.7,7669,0,1,47502,1,Parent,Both,951764,N
+SL664,Mechanical Engineering,UG,4,Tier 3,4.5,7526,75000,0,19182,1,Parent,Living Expenses,700297,N
+SL665,AI & Robotics,UG,3,Tier 1,7.5,6318,25000,1,46278,1,Parent,Tuition,203342,Y
+SL666,AI & Robotics,UG,3,Tier 3,4.5,2069,100000,0,19966,1,Parent,Living Expenses,419375,N
+SL667,AI & Robotics,UG,3,Tier 1,7.7,6485,25000,1,54896,1,Guardian,Tuition,102829,Y
+SL668,Electronics Engineering,UG,4,Tier 1,9.6,1864,150000,1,15940,0,Sibling,Both,169264,Y
+SL669,B.A (English Literature),UG,3,Tier 1,4.5,1179,75000,0,34849,1,Parent,Tuition,970870,Y
+SL670,B.Sc (Mathematics),UG,3,Tier 3,4.5,3322,50000,0,55166,1,Guardian,Both,686032,N
+SL671,Biotechnology Engineering,UG,4,Tier 2,4.5,3828,100000,0,46373,1,Parent,Tuition,720453,Y
+SL672,Electronics Engineering,UG,4,Tier 1,4.5,5590,50000,0,10792,1,Guardian,Both,379514,Y
+SL673,Automobile Engineering,UG,4,Tier 1,4.5,2187,50000,0,17114,0,Parent,Both,240044,Y
+SL674,Biotechnology Engineering,UG,4,Tier 2,4.5,7804,150000,0,49826,0,Guardian,Tuition,103712,Y
+SL675,Computer Engineering,UG,4,Tier 1,4.5,7706,50000,0,18253,1,Parent,Tuition,180898,N
+SL676,MBA (HR),Masters,2,Tier 2,5.8,5930,100000,0,12328,1,Parent,Both,1811059,N
+SL677,LLB (Law),UG,5,Tier 2,4.5,4003,25000,0,10735,1,Parent,Living Expenses,417890,Y
+SL678,MBBS (Medicine),UG,5,Tier 1,9.7,2210,25000,1,26249,1,Parent,Tuition,362546,Y
+SL679,B.A (History),UG,3,Tier 1,4.5,1036,0,0,14065,1,Parent,Both,920069,Y
+SL680,MBA (Finance),Masters,2,Tier 3,6.7,14500,0,0,46663,1,Relative,Tuition,1709853,Y
+SL681,M.Sc (Physics),Masters,2,Tier 2,4.5,10966,0,0,17175,1,Parent,Tuition,1187735,N
+SL682,B.Ed (Education),UG,2,Tier 1,7.1,1907,0,1,56014,0,Sibling,Both,663767,Y
+SL683,B.Sc (Physics),UG,3,Tier 3,4.5,4617,50000,0,21259,1,Relative,Living Expenses,911124,Y
+SL684,B.Sc (Physics),UG,3,Tier 2,4.5,5862,150000,0,50167,1,Sibling,Tuition,183402,N
+SL685,M.Sc (Physics),Masters,2,Tier 1,7.8,3845,50000,1,52512,1,Parent,Both,1811456,Y
+SL686,Electronics Engineering,UG,4,Tier 2,5.1,974,0,0,15172,1,Parent,Living Expenses,845990,Y
+SL687,B.Ed (Education),UG,2,Tier 2,4.5,823,0,0,45348,1,Sibling,Both,308041,N
+SL688,MBA (Finance),Masters,2,Tier 3,5.7,4534,50000,0,49975,1,Parent,Tuition,1030699,Y
+SL689,B.Com (Banking & Finance),UG,3,Tier 3,4.5,1289,150000,0,27056,1,Parent,Both,823782,N
+SL690,B.A (History),UG,3,Tier 3,8.5,4231,50000,1,14670,0,Parent,Both,100116,Y
+SL691,BDS (Dentistry),UG,5,Tier 3,4.5,4619,0,0,53093,1,Parent,Both,654523,N
+SL692,B.A (History),UG,3,Tier 2,4.5,5809,0,0,57539,1,Guardian,Both,129744,N
+SL693,B.Com (Accounting),UG,3,Tier 3,5.3,7581,25000,0,44083,1,Parent,Tuition,894021,Y
+SL694,MBBS (Medicine),UG,5,Tier 3,8.1,2284,0,1,30736,0,Guardian,Both,532882,N
+SL695,Electronics Engineering,UG,4,Tier 2,7.6,7644,0,1,33849,0,Parent,Both,703400,N
+SL696,Electronics Engineering,UG,4,Tier 3,9.2,7747,0,1,16698,1,Parent,Tuition,383874,Y
+SL697,M.Sc (Mathematics),Masters,2,Tier 1,5.4,12410,50000,0,21712,0,Parent,Living Expenses,1945798,Y
+SL698,MBA (HR),Masters,2,Tier 1,9.6,9682,50000,1,17708,0,Parent,Living Expenses,703072,Y
+SL699,B.Com (Banking & Finance),UG,3,Tier 3,8.9,6602,0,1,28035,1,Guardian,Both,776293,N
+SL700,M.Tech (AI & Robotics),Masters,2,Tier 3,9.5,5194,50000,1,10855,1,Parent,Living Expenses,1463155,Y
+SL701,BBA (Management Studies),UG,3,Tier 3,5.9,5248,25000,0,58254,1,Relative,Tuition,204449,N
+SL702,MBA (Marketing),Masters,2,Tier 3,4.5,3684,25000,0,29574,0,Guardian,Living Expenses,1509285,Y
+SL703,M.Sc (Physics),Masters,2,Tier 2,4.5,7678,50000,0,30962,0,Parent,Tuition,1378414,N
+SL704,Aerospace Engineering,UG,4,Tier 3,6.6,2814,150000,0,37365,1,Sibling,Both,788029,N
+SL705,M.Sc (Mathematics),Masters,2,Tier 2,8.1,7975,0,1,32874,1,Guardian,Both,1593163,Y
+SL706,B.Sc (Mathematics),UG,3,Tier 1,4.5,6758,50000,0,30745,0,Parent,Living Expenses,253832,Y
+SL707,Electrical Engineering,UG,4,Tier 3,7.0,4103,0,1,55433,1,Parent,Both,485084,Y
+SL708,B.A (Philosophy),UG,3,Tier 1,4.5,2903,150000,0,32854,0,Parent,Both,746947,Y
+SL709,M.A (Economics),Masters,2,Tier 1,8.0,14496,0,1,27124,0,Parent,Tuition,992603,Y
+SL710,Data Science Engineering,UG,4,Tier 3,9.6,876,25000,1,41197,1,Guardian,Living Expenses,898852,Y
+SL711,Electronics Engineering,UG,4,Tier 3,8.7,841,25000,1,36259,1,Parent,Both,958030,N
+SL712,B.A (Philosophy),UG,3,Tier 2,4.5,991,0,0,50873,1,Parent,Tuition,651497,Y
+SL713,Automobile Engineering,UG,4,Tier 3,9.5,2082,25000,1,22877,1,Relative,Tuition,284957,N
+SL714,B.Sc (Physics),UG,3,Tier 1,4.5,7226,0,0,40253,0,Parent,Living Expenses,963072,N
+SL715,MBBS (Medicine),UG,5,Tier 1,7.6,1806,100000,1,47884,1,Parent,Living Expenses,320906,N
+SL716,M.Tech (AI & Robotics),Masters,2,Tier 2,8.8,12985,150000,1,40352,0,Parent,Tuition,556972,N
+SL717,Information Technology,UG,3,Tier 3,4.5,6069,100000,0,53413,1,Sibling,Tuition,252187,N
+SL718,MBA (Marketing),Masters,2,Tier 1,6.3,13092,150000,0,45867,1,Parent,Both,1551083,Y
+SL719,B.Sc (Physics),UG,3,Tier 1,8.6,3556,75000,1,36531,1,Parent,Tuition,984104,N
+SL720,Electrical Engineering,UG,4,Tier 3,4.8,5673,25000,0,25823,0,Sibling,Tuition,708246,Y
+SL721,Automobile Engineering,UG,4,Tier 1,7.7,6722,0,1,52060,1,Parent,Both,934083,Y
+SL722,B.A (History),UG,3,Tier 1,8.9,7975,100000,1,38930,1,Parent,Tuition,517298,Y
+SL723,B.A (English Literature),UG,3,Tier 1,4.5,1357,50000,0,18253,0,Guardian,Both,231107,Y
+SL724,Mechanical Engineering,UG,4,Tier 3,9.1,4273,50000,1,37560,0,Parent,Both,688104,Y
+SL725,Civil Engineering,UG,4,Tier 2,7.9,4426,50000,1,44238,1,Relative,Both,326409,Y
+SL726,M.A (Economics),Masters,2,Tier 2,4.5,8427,50000,0,45140,1,Parent,Both,1613851,Y
+SL727,B.Sc (Chemistry),UG,3,Tier 1,4.5,7708,75000,0,57827,1,Sibling,Both,301843,Y
+SL728,MBA (Marketing),Masters,2,Tier 2,4.5,4328,50000,0,57927,0,Parent,Tuition,1571459,Y
+SL729,LLB (Law),UG,5,Tier 3,8.2,627,0,1,42487,1,Relative,Tuition,196120,Y
+SL730,Mechanical Engineering,UG,4,Tier 1,5.0,6992,75000,0,32148,1,Parent,Both,792200,Y
+SL731,Mechanical Engineering,UG,4,Tier 2,9.1,4512,25000,1,19472,0,Relative,Living Expenses,868253,N
+SL732,Electronics Engineering,UG,4,Tier 3,9.7,2891,0,1,13617,1,Parent,Tuition,126538,Y
+SL733,Chemical Engineering,UG,4,Tier 3,8.8,658,75000,1,31824,1,Parent,Living Expenses,831245,Y
+SL734,Automobile Engineering,UG,4,Tier 2,4.5,6378,0,0,27295,0,Sibling,Both,707902,N
+SL735,B.Des (Product Design),UG,4,Tier 1,8.6,547,75000,1,48602,0,Parent,Both,940696,Y
+SL736,BBA (Management Studies),UG,3,Tier 2,4.5,131,50000,0,39848,0,Guardian,Tuition,843377,N
+SL737,B.Com (Accounting),UG,3,Tier 2,4.5,5717,150000,0,12316,0,Parent,Both,795585,Y
+SL738,B.Com (Banking & Finance),UG,3,Tier 3,4.5,992,0,0,40306,1,Guardian,Both,495234,Y
+SL739,B.Ed (Education),UG,2,Tier 1,6.9,6612,150000,0,37297,1,Sibling,Both,513976,Y
+SL740,BDS (Dentistry),UG,5,Tier 1,4.5,753,0,0,54033,1,Parent,Living Expenses,278248,N
+SL741,B.Com (Accounting),UG,3,Tier 1,9.1,6442,150000,1,32058,1,Parent,Living Expenses,656260,Y
+SL742,M.Tech (Data Science),Masters,2,Tier 3,8.3,3600,75000,1,45940,1,Parent,Tuition,1290762,Y
+SL743,B.Sc (Physics),UG,3,Tier 3,4.5,5059,75000,0,51588,1,Relative,Tuition,451709,N
+SL744,AI & Robotics,UG,3,Tier 3,7.6,6338,0,0,57857,0,Parent,Both,816939,Y
+SL745,Civil Engineering,UG,4,Tier 2,4.5,1265,75000,0,47804,0,Sibling,Both,150482,Y
+SL746,MBBS (Medicine),UG,5,Tier 3,7.4,5027,100000,0,41381,0,Guardian,Tuition,940970,N
+SL747,Electrical Engineering,UG,4,Tier 1,5.9,6604,150000,0,28784,1,Parent,Living Expenses,647146,Y
+SL748,Automobile Engineering,UG,4,Tier 1,7.3,1261,0,1,13717,0,Sibling,Tuition,833732,Y
+SL749,MBA (Marketing),Masters,2,Tier 1,9.7,8644,0,1,48253,1,Parent,Both,1424473,N
+SL750,B.Des (Product Design),UG,4,Tier 2,8.1,763,25000,1,39154,1,Parent,Living Expenses,928725,N
+SL751,BDS (Dentistry),UG,5,Tier 2,5.4,6490,100000,0,43070,0,Relative,Living Expenses,189919,Y
+SL752,B.Com (Banking & Finance),UG,3,Tier 2,4.7,2310,75000,0,15537,0,Parent,Tuition,316935,N
+SL753,Electrical Engineering,UG,4,Tier 2,4.5,3782,50000,0,12065,0,Parent,Tuition,543641,N
+SL754,MBA (HR),Masters,2,Tier 2,8.0,13969,50000,1,14191,1,Relative,Tuition,1695267,N
+SL755,BBA (Management Studies),UG,3,Tier 3,6.7,1180,50000,0,40028,1,Parent,Living Expenses,228243,Y
+SL756,M.Sc (Physics),Masters,2,Tier 1,5.5,12066,100000,0,34135,1,Sibling,Living Expenses,1807692,N
+SL757,B.A (Philosophy),UG,3,Tier 3,4.5,7372,0,0,47329,1,Relative,Both,731250,Y
+SL758,B.Com (Banking & Finance),UG,3,Tier 1,4.9,7903,0,0,23685,1,Parent,Tuition,811270,N
+SL759,Information Technology,UG,3,Tier 2,4.5,3500,50000,0,19096,0,Guardian,Living Expenses,469178,N
+SL760,Electronics Engineering,UG,4,Tier 3,6.4,1900,50000,0,36193,1,Relative,Tuition,973458,N
+SL761,B.Com (Banking & Finance),UG,3,Tier 1,4.5,3717,50000,0,23004,0,Guardian,Both,380896,Y
+SL762,B.Com (Banking & Finance),UG,3,Tier 2,4.5,7844,25000,0,23711,1,Parent,Tuition,550139,Y
+SL763,AI & Robotics,UG,3,Tier 2,7.5,178,50000,0,36883,1,Parent,Both,925195,N
+SL764,Data Science Engineering,UG,4,Tier 2,9.8,5444,25000,1,49905,0,Parent,Tuition,240688,N
+SL765,B.Ed (Education),UG,2,Tier 1,4.5,2153,100000,0,22021,1,Guardian,Living Expenses,491809,N
+SL766,B.Sc (Physics),UG,3,Tier 3,4.5,2810,25000,0,53422,1,Parent,Tuition,122795,Y
+SL767,BBA (Management Studies),UG,3,Tier 1,8.1,2041,150000,1,54014,1,Parent,Living Expenses,370880,Y
+SL768,B.Sc (Mathematics),UG,3,Tier 2,4.5,5081,150000,0,35149,1,Parent,Tuition,771094,Y
+SL769,Civil Engineering,UG,4,Tier 1,5.0,1170,50000,0,49653,0,Parent,Living Expenses,757387,N
+SL770,B.Com (Accounting),UG,3,Tier 3,4.5,4863,0,0,43726,1,Sibling,Tuition,677945,N
+SL771,M.Tech (Data Science),Masters,2,Tier 3,4.5,9143,0,0,31270,0,Guardian,Both,1976116,N
+SL772,M.Sc (Mathematics),Masters,2,Tier 3,6.5,4613,100000,0,30883,1,Sibling,Tuition,1764664,Y
+SL773,B.A (Philosophy),UG,3,Tier 1,7.2,1915,100000,1,14824,1,Parent,Both,989342,Y
+SL774,Chemical Engineering,UG,4,Tier 3,4.5,1811,150000,0,33959,1,Parent,Both,713048,N
+SL775,Automobile Engineering,UG,4,Tier 3,9.8,3754,0,1,29532,1,Parent,Both,507890,Y
+SL776,M.Sc (Mathematics),Masters,2,Tier 3,8.3,10423,150000,1,49034,0,Parent,Tuition,1989804,N
+SL777,Mechanical Engineering,UG,4,Tier 3,7.5,3810,50000,1,19601,1,Parent,Living Expenses,629556,Y
+SL778,M.Sc (Physics),Masters,2,Tier 1,4.5,11371,25000,0,11091,1,Guardian,Both,1468669,Y
+SL779,B.Des (Product Design),UG,4,Tier 2,8.2,7989,0,1,35278,1,Relative,Both,558181,N
+SL780,MBA (Marketing),Masters,2,Tier 3,4.5,4261,100000,0,10572,1,Guardian,Tuition,1778102,N
+SL781,Biotechnology Engineering,UG,4,Tier 1,6.1,4084,100000,0,23681,1,Guardian,Tuition,922367,N
+SL782,B.Com (Accounting),UG,3,Tier 3,6.7,5491,100000,0,53557,1,Parent,Living Expenses,719231,Y
+SL783,MBA (Finance),Masters,2,Tier 3,4.5,4010,0,0,13143,0,Parent,Both,1293299,Y
+SL784,B.Des (Product Design),UG,4,Tier 2,4.7,5584,25000,0,20541,0,Relative,Living Expenses,571509,N
+SL785,B.Des (Product Design),UG,4,Tier 3,4.5,474,50000,0,47779,1,Relative,Both,951959,N
+SL786,MBA (Finance),Masters,2,Tier 3,8.5,13445,150000,1,36195,1,Parent,Both,1440888,Y
+SL787,B.A (English Literature),UG,3,Tier 1,4.7,7065,100000,0,57661,1,Parent,Both,126060,N
+SL788,B.A (Philosophy),UG,3,Tier 1,9.2,1997,0,1,57136,1,Parent,Tuition,727937,Y
+SL789,BDS (Dentistry),UG,5,Tier 2,4.5,1663,100000,0,47746,1,Parent,Tuition,938072,Y
+SL790,Information Technology,UG,3,Tier 1,9.8,4919,150000,1,31878,1,Guardian,Tuition,491738,Y
+SL791,Mechanical Engineering,UG,4,Tier 3,6.6,4079,100000,0,44008,1,Sibling,Tuition,331703,N
+SL792,B.Com (Accounting),UG,3,Tier 1,7.8,7826,100000,1,35836,1,Parent,Tuition,729745,Y
+SL793,B.Com (Banking & Finance),UG,3,Tier 2,4.5,2926,150000,0,10731,1,Parent,Both,542036,Y
+SL794,MBA (HR),Masters,2,Tier 3,6.8,11335,100000,0,29768,1,Guardian,Living Expenses,1795066,Y
+SL795,Information Technology,UG,3,Tier 2,5.3,915,0,0,11815,1,Parent,Both,882709,Y
+SL796,LLB (Law),UG,5,Tier 2,4.5,2374,0,0,58774,0,Guardian,Tuition,752887,N
+SL797,MBA (Finance),Masters,2,Tier 1,4.5,8745,0,0,19207,1,Parent,Both,1016895,Y
+SL798,MBA (Marketing),Masters,2,Tier 2,6.8,14214,100000,0,12785,0,Parent,Tuition,812955,Y
+SL799,B.Des (Product Design),UG,4,Tier 2,5.8,1938,25000,0,36666,1,Parent,Tuition,734942,N
+SL800,BDS (Dentistry),UG,5,Tier 2,4.5,426,75000,0,32149,0,Parent,Both,336685,Y
+SL801,Computer Engineering,UG,4,Tier 1,4.5,7994,50000,0,46100,0,Parent,Living Expenses,123957,N
+SL802,M.Sc (Mathematics),Masters,2,Tier 2,5.3,12405,25000,0,20654,0,Guardian,Tuition,1166643,N
+SL803,B.Sc (Physics),UG,3,Tier 1,4.6,6033,25000,0,34245,1,Parent,Both,936809,N
+SL804,Information Technology,UG,3,Tier 1,4.5,7118,150000,0,57087,0,Relative,Tuition,935790,Y
+SL805,Electrical Engineering,UG,4,Tier 1,9.3,3276,0,1,39157,0,Parent,Both,534934,Y
+SL806,MBA (Finance),Masters,2,Tier 1,4.5,5243,0,0,24735,1,Parent,Both,1733419,N
+SL807,MBBS (Medicine),UG,5,Tier 3,4.5,4782,0,0,11543,1,Guardian,Living Expenses,172525,Y
+SL808,BBA (Management Studies),UG,3,Tier 1,5.7,2139,50000,0,50257,1,Guardian,Living Expenses,820044,Y
+SL809,M.Tech (Data Science),Masters,2,Tier 3,5.2,9293,75000,0,48979,0,Parent,Both,1339003,Y
+SL810,B.Sc (Mathematics),UG,3,Tier 1,4.5,4574,75000,0,21528,0,Parent,Tuition,749669,N
+SL811,M.Tech (AI & Robotics),Masters,2,Tier 2,4.5,3938,100000,0,45195,1,Parent,Tuition,575822,N
+SL812,B.Sc (Chemistry),UG,3,Tier 1,8.3,6191,100000,1,15664,1,Parent,Living Expenses,988867,Y
+SL813,M.Tech (Data Science),Masters,2,Tier 3,4.5,2250,50000,0,11167,1,Parent,Tuition,1372783,Y
+SL814,BDS (Dentistry),UG,5,Tier 2,4.5,5032,50000,0,19535,1,Parent,Living Expenses,325394,Y
+SL815,Information Technology,UG,3,Tier 3,5.8,2914,50000,0,50193,0,Guardian,Living Expenses,600739,Y
+SL816,BDS (Dentistry),UG,5,Tier 1,4.5,7059,0,0,19238,1,Parent,Tuition,265519,Y
+SL817,B.Ed (Education),UG,2,Tier 2,4.5,2915,0,0,40867,1,Parent,Tuition,326384,N
+SL818,Mechanical Engineering,UG,4,Tier 2,6.7,3776,25000,0,43416,1,Parent,Living Expenses,956968,Y
+SL819,MCA (Computer Applications),Masters,3,Tier 3,4.5,4422,150000,0,39126,0,Parent,Both,1964476,Y
+SL820,Biotechnology Engineering,UG,4,Tier 2,6.5,6763,25000,0,17664,0,Parent,Living Expenses,328378,Y
+SL821,Electronics Engineering,UG,4,Tier 3,4.5,3143,100000,0,39357,1,Relative,Both,680661,Y
+SL822,MBA (HR),Masters,2,Tier 1,9.7,13080,0,1,24343,1,Parent,Both,1426993,N
+SL823,M.Sc (Mathematics),Masters,2,Tier 2,9.4,5429,0,1,26857,0,Parent,Living Expenses,1061030,Y
+SL824,B.Com (Banking & Finance),UG,3,Tier 2,4.5,4661,150000,0,34932,0,Guardian,Both,625891,Y
+SL825,MBA (Finance),Masters,2,Tier 1,4.5,11623,25000,0,27312,1,Parent,Both,1170286,Y
+SL826,B.Ed (Education),UG,2,Tier 1,7.5,3563,75000,1,34556,0,Parent,Living Expenses,404268,N
+SL827,Data Science Engineering,UG,4,Tier 1,8.1,3692,50000,1,50085,0,Parent,Tuition,813286,N
+SL828,MBBS (Medicine),UG,5,Tier 2,9.5,2514,0,1,34720,1,Relative,Tuition,972842,N
+SL829,B.Sc (Physics),UG,3,Tier 3,4.5,5627,75000,0,42489,0,Parent,Both,530551,Y
+SL830,B.Com (Banking & Finance),UG,3,Tier 1,4.5,6943,50000,0,49606,0,Sibling,Living Expenses,712280,N
+SL831,B.A (English Literature),UG,3,Tier 1,6.4,7864,75000,0,33685,1,Sibling,Tuition,510388,N
+SL832,MBA (Marketing),Masters,2,Tier 1,4.5,7539,50000,0,36654,0,Guardian,Both,1012667,Y
+SL833,AI & Robotics,UG,3,Tier 2,5.6,1830,75000,0,45373,1,Relative,Tuition,555897,Y
+SL834,B.Sc (Chemistry),UG,3,Tier 1,4.7,548,0,0,53017,1,Guardian,Living Expenses,972558,N
+SL835,BBA (Management Studies),UG,3,Tier 1,5.4,5883,75000,0,45962,1,Guardian,Both,515567,Y
+SL836,Chemical Engineering,UG,4,Tier 1,7.6,2187,100000,1,10941,0,Parent,Both,734669,Y
+SL837,BDS (Dentistry),UG,5,Tier 2,6.0,4341,150000,0,24556,1,Parent,Tuition,748676,Y
+SL838,Data Science Engineering,UG,4,Tier 3,5.0,6288,150000,0,53159,1,Parent,Living Expenses,175091,N
+SL839,Biotechnology Engineering,UG,4,Tier 1,7.6,468,100000,1,22106,1,Parent,Both,254356,N
+SL840,MBBS (Medicine),UG,5,Tier 1,4.5,2477,100000,0,35831,1,Parent,Both,643497,N
+SL841,Data Science Engineering,UG,4,Tier 2,4.8,2338,150000,0,20781,1,Parent,Both,710682,N
+SL842,B.Com (Accounting),UG,3,Tier 1,6.4,4728,25000,0,47480,0,Guardian,Tuition,835819,Y
+SL843,Electrical Engineering,UG,4,Tier 3,4.9,4260,0,0,25229,0,Sibling,Tuition,719739,Y
+SL844,Computer Engineering,UG,4,Tier 3,8.2,1711,75000,1,21725,1,Parent,Both,661185,Y
+SL845,Mechanical Engineering,UG,4,Tier 3,4.5,7469,0,0,42760,1,Relative,Tuition,374910,N
+SL846,M.Tech (Data Science),Masters,2,Tier 1,8.1,12400,0,1,24357,1,Guardian,Tuition,1795551,Y
+SL847,M.Sc (Mathematics),Masters,2,Tier 3,4.5,10701,25000,0,42394,1,Guardian,Both,1164022,N
+SL848,B.Sc (Physics),UG,3,Tier 2,4.5,2505,100000,0,53243,1,Parent,Both,842193,Y
+SL849,MBA (HR),Masters,2,Tier 3,7.4,9457,25000,1,11006,1,Parent,Tuition,861183,N
+SL850,BDS (Dentistry),UG,5,Tier 3,9.0,5801,75000,1,40945,0,Parent,Tuition,998605,Y
+SL851,Data Science Engineering,UG,4,Tier 1,4.5,5876,75000,0,31275,1,Parent,Tuition,999503,Y
+SL852,B.Com (Accounting),UG,3,Tier 2,4.7,1141,50000,0,40612,0,Guardian,Both,595694,N
+SL853,LLB (Law),UG,5,Tier 2,5.2,4912,25000,0,45988,0,Parent,Both,943853,Y
+SL854,B.Sc (Mathematics),UG,3,Tier 2,6.4,1253,0,0,25642,1,Parent,Tuition,869593,Y
+SL855,Data Science Engineering,UG,4,Tier 1,4.5,5347,0,0,53812,0,Parent,Both,198427,Y
+SL856,M.A (Economics),Masters,2,Tier 1,4.5,8672,75000,0,59823,1,Parent,Living Expenses,538906,Y
+SL857,M.Sc (Mathematics),Masters,2,Tier 1,4.5,7493,150000,0,13627,1,Guardian,Living Expenses,562253,Y
+SL858,B.A (History),UG,3,Tier 3,6.2,5788,0,0,23258,1,Sibling,Living Expenses,607545,N
+SL859,M.A (Economics),Masters,2,Tier 3,5.1,10480,25000,0,59225,1,Parent,Tuition,785059,Y
+SL860,Biotechnology Engineering,UG,4,Tier 2,9.1,3594,0,1,31511,1,Parent,Tuition,566527,N
+SL861,MCA (Computer Applications),Masters,3,Tier 1,8.7,3473,100000,1,35244,0,Parent,Both,664386,N
+SL862,MBA (Marketing),Masters,2,Tier 2,4.5,9551,0,0,18772,0,Guardian,Both,1113690,Y
+SL863,MBA (Finance),Masters,2,Tier 3,6.0,11326,50000,0,31067,1,Guardian,Tuition,1470083,Y
+SL864,B.Sc (Mathematics),UG,3,Tier 2,5.5,2919,100000,0,25449,1,Sibling,Living Expenses,609845,N
+SL865,B.A (English Literature),UG,3,Tier 2,8.9,1959,100000,1,38717,1,Parent,Tuition,534875,N
+SL866,Chemical Engineering,UG,4,Tier 3,8.8,1190,0,1,44676,1,Parent,Both,463162,Y
+SL867,BDS (Dentistry),UG,5,Tier 2,4.5,4454,100000,0,55359,0,Parent,Tuition,349060,N
+SL868,B.Com (Banking & Finance),UG,3,Tier 3,7.2,1948,75000,0,14017,1,Sibling,Living Expenses,959389,N
+SL869,M.A (Economics),Masters,2,Tier 2,8.3,5581,25000,1,59841,1,Parent,Tuition,714800,Y
+SL870,MBA (Finance),Masters,2,Tier 3,5.8,10295,100000,0,13439,1,Relative,Tuition,744467,N
+SL871,M.Tech (Data Science),Masters,2,Tier 3,4.5,8919,0,0,19432,1,Parent,Both,1950070,Y
+SL872,Civil Engineering,UG,4,Tier 3,8.4,3531,0,1,14244,1,Sibling,Living Expenses,297263,N
+SL873,MCA (Computer Applications),Masters,3,Tier 2,4.5,6594,25000,0,27096,1,Sibling,Both,640972,N
+SL874,MBA (Marketing),Masters,2,Tier 2,5.5,5727,0,0,32970,0,Guardian,Tuition,1182367,Y
+SL875,B.Sc (Physics),UG,3,Tier 3,5.0,5088,0,0,44863,1,Guardian,Both,982016,Y
+SL876,Biotechnology Engineering,UG,4,Tier 1,4.5,7405,0,0,26458,1,Parent,Tuition,271247,N
+SL877,M.Tech (AI & Robotics),Masters,2,Tier 1,6.6,7133,25000,0,10863,1,Parent,Tuition,1256831,N
+SL878,Chemical Engineering,UG,4,Tier 2,4.5,4300,0,0,18167,1,Sibling,Both,667018,N
+SL879,Chemical Engineering,UG,4,Tier 2,9.6,4866,100000,1,29944,1,Relative,Tuition,135514,N
+SL880,B.Sc (Physics),UG,3,Tier 1,7.6,2496,75000,1,30119,1,Parent,Both,298377,N
+SL881,B.Sc (Mathematics),UG,3,Tier 2,6.9,7227,50000,0,24900,1,Parent,Tuition,392544,Y
+SL882,AI & Robotics,UG,3,Tier 1,8.6,6629,50000,1,24149,1,Parent,Tuition,229096,N
+SL883,Mechanical Engineering,UG,4,Tier 1,8.3,393,100000,1,40120,0,Parent,Both,912440,N
+SL884,B.Com (Accounting),UG,3,Tier 2,7.7,1001,50000,0,38069,0,Parent,Both,673556,N
+SL885,BDS (Dentistry),UG,5,Tier 2,4.5,311,50000,0,11129,1,Guardian,Both,623359,Y
+SL886,B.A (Philosophy),UG,3,Tier 2,5.4,28,50000,0,59914,1,Sibling,Both,713581,N
+SL887,M.Sc (Mathematics),Masters,2,Tier 3,4.5,7815,50000,0,26224,1,Sibling,Tuition,1922356,N
+SL888,B.Des (Product Design),UG,4,Tier 1,4.9,4447,0,0,42334,1,Guardian,Living Expenses,454773,N
+SL889,AI & Robotics,UG,3,Tier 1,4.5,446,0,0,36837,1,Sibling,Both,210785,N
+SL890,BDS (Dentistry),UG,5,Tier 2,4.5,27,50000,0,19236,1,Parent,Tuition,868655,N
+SL891,Data Science Engineering,UG,4,Tier 2,8.7,3959,0,1,41583,0,Parent,Both,447161,N
+SL892,B.A (Philosophy),UG,3,Tier 3,7.7,6681,50000,0,51343,1,Parent,Tuition,623961,Y
+SL893,Mechanical Engineering,UG,4,Tier 3,6.8,4060,75000,0,54809,1,Parent,Tuition,696968,Y
+SL894,Biotechnology Engineering,UG,4,Tier 3,4.5,290,0,0,39365,1,Relative,Tuition,611617,N
+SL895,Biotechnology Engineering,UG,4,Tier 3,4.5,3115,0,0,43479,1,Parent,Tuition,240438,Y
+SL896,Aerospace Engineering,UG,4,Tier 1,9.5,1939,100000,1,20518,1,Parent,Both,148556,N
+SL897,BBA (Management Studies),UG,3,Tier 1,6.2,5950,0,0,22764,1,Sibling,Tuition,832050,Y
+SL898,MBA (Finance),Masters,2,Tier 2,7.0,8854,0,1,16611,1,Sibling,Both,671510,Y
+SL899,Biotechnology Engineering,UG,4,Tier 2,9.6,3133,50000,1,25658,1,Guardian,Tuition,671886,Y
+SL900,B.A (English Literature),UG,3,Tier 2,4.5,5198,150000,0,18061,1,Sibling,Tuition,579886,N
+SL901,B.A (English Literature),UG,3,Tier 2,4.5,7806,50000,0,52838,1,Relative,Tuition,776217,Y
+SL902,B.Sc (Physics),UG,3,Tier 3,4.5,1759,100000,0,49950,1,Guardian,Both,887194,Y
+SL903,BBA (Management Studies),UG,3,Tier 2,8.5,2787,50000,1,39108,1,Relative,Living Expenses,734267,Y
+SL904,B.Des (Product Design),UG,4,Tier 3,4.5,1042,100000,0,12866,0,Parent,Tuition,647905,N
+SL905,B.Sc (Chemistry),UG,3,Tier 1,6.8,2402,0,0,59735,1,Parent,Both,308546,Y
+SL906,Computer Engineering,UG,4,Tier 3,4.5,5408,150000,0,59253,1,Parent,Tuition,672471,N
+SL907,MCA (Computer Applications),Masters,3,Tier 3,4.5,3644,150000,0,28996,1,Parent,Both,1638994,N
+SL908,M.A (Economics),Masters,2,Tier 2,5.6,14996,100000,0,51980,1,Parent,Both,579600,Y
+SL909,B.Sc (Physics),UG,3,Tier 1,4.5,5967,0,0,54581,1,Guardian,Tuition,645167,Y
+SL910,M.Sc (Mathematics),Masters,2,Tier 1,4.5,11075,25000,0,13163,0,Parent,Tuition,1701428,N
+SL911,B.Ed (Education),UG,2,Tier 2,4.9,7967,0,0,12324,1,Sibling,Both,565967,N
+SL912,MBA (Finance),Masters,2,Tier 1,6.1,10796,25000,0,33312,1,Parent,Tuition,1163302,Y
+SL913,M.Sc (Physics),Masters,2,Tier 2,4.5,7307,0,0,12136,1,Parent,Both,1238059,N
+SL914,B.Sc (Chemistry),UG,3,Tier 1,4.9,4428,50000,0,37353,1,Parent,Living Expenses,518225,Y
+SL915,Biotechnology Engineering,UG,4,Tier 3,9.7,6858,100000,1,24981,1,Guardian,Tuition,704945,N
+SL916,Electronics Engineering,UG,4,Tier 2,4.5,4014,150000,0,28622,1,Parent,Living Expenses,383821,Y
+SL917,BBA (Management Studies),UG,3,Tier 2,4.5,2158,150000,0,27002,1,Parent,Tuition,448609,N
+SL918,B.Com (Banking & Finance),UG,3,Tier 1,4.5,812,0,0,15041,0,Parent,Both,581972,N
+SL919,B.A (Philosophy),UG,3,Tier 2,4.5,5175,0,0,41979,1,Sibling,Tuition,389415,Y
+SL920,Information Technology,UG,3,Tier 1,4.5,4491,0,0,26693,1,Parent,Both,894349,N
+SL921,Information Technology,UG,3,Tier 3,7.5,1204,0,0,40783,1,Relative,Tuition,566050,N
+SL922,BDS (Dentistry),UG,5,Tier 3,4.5,3129,25000,0,44925,0,Parent,Both,221050,Y
+SL923,B.A (History),UG,3,Tier 1,9.2,7731,25000,1,11685,1,Parent,Both,262632,Y
+SL924,Automobile Engineering,UG,4,Tier 1,8.8,7552,150000,1,15262,1,Guardian,Both,615713,Y
+SL925,Information Technology,UG,3,Tier 2,4.5,6595,25000,0,39389,0,Parent,Both,883572,Y
+SL926,MBBS (Medicine),UG,5,Tier 1,8.9,5585,100000,1,33670,0,Guardian,Tuition,825618,N
+SL927,Electrical Engineering,UG,4,Tier 2,9.6,3393,0,1,22878,0,Guardian,Both,793306,Y
+SL928,B.Des (Product Design),UG,4,Tier 3,4.5,7343,0,0,50726,0,Parent,Both,393178,N
+SL929,Aerospace Engineering,UG,4,Tier 2,8.5,3171,50000,1,55391,0,Parent,Both,784228,Y
+SL930,LLB (Law),UG,5,Tier 1,6.3,4877,0,0,52224,1,Relative,Living Expenses,367469,N
+SL931,B.A (Philosophy),UG,3,Tier 3,4.5,3165,50000,0,23483,0,Parent,Living Expenses,614874,Y
+SL932,LLB (Law),UG,5,Tier 2,7.6,5519,100000,0,16499,1,Parent,Tuition,604438,N
+SL933,B.Sc (Physics),UG,3,Tier 3,5.5,7468,100000,0,25150,0,Guardian,Both,104351,Y
+SL934,B.Com (Banking & Finance),UG,3,Tier 3,5.8,7122,50000,0,31824,0,Parent,Tuition,685824,N
+SL935,Data Science Engineering,UG,4,Tier 2,4.5,1191,50000,0,37361,1,Guardian,Both,743997,Y
+SL936,Civil Engineering,UG,4,Tier 1,9.7,3710,25000,1,18887,0,Parent,Tuition,586593,N
+SL937,M.A (Economics),Masters,2,Tier 3,4.5,9364,75000,0,52236,0,Parent,Tuition,1241733,Y
+SL938,B.Des (Product Design),UG,4,Tier 1,4.5,2708,75000,0,35104,1,Guardian,Tuition,142723,Y
+SL939,LLB (Law),UG,5,Tier 2,4.5,6831,150000,0,42527,0,Guardian,Tuition,928589,Y
+SL940,M.Sc (Mathematics),Masters,2,Tier 3,4.5,13715,50000,0,18241,1,Guardian,Both,908424,Y
+SL941,Mechanical Engineering,UG,4,Tier 1,4.5,6894,150000,0,45708,1,Sibling,Both,423447,Y
+SL942,B.A (Philosophy),UG,3,Tier 1,4.5,6176,100000,0,54547,1,Guardian,Tuition,968349,N
+SL943,Mechanical Engineering,UG,4,Tier 2,4.5,1532,75000,0,35436,1,Parent,Both,471592,N
+SL944,Automobile Engineering,UG,4,Tier 3,8.6,2435,0,1,30964,1,Parent,Tuition,338817,N
+SL945,MBA (Marketing),Masters,2,Tier 2,4.5,4059,50000,0,14814,1,Parent,Both,811153,Y
+SL946,Aerospace Engineering,UG,4,Tier 3,4.5,3962,100000,0,12374,1,Parent,Tuition,841672,Y
+SL947,Mechanical Engineering,UG,4,Tier 2,6.3,6564,50000,0,34701,1,Parent,Tuition,791824,Y
+SL948,MBA (Finance),Masters,2,Tier 3,4.5,6359,0,0,53971,0,Parent,Tuition,1179058,Y
+SL949,Electrical Engineering,UG,4,Tier 1,9.0,5225,0,1,49745,1,Parent,Tuition,651748,N
+SL950,MBA (Finance),Masters,2,Tier 1,6.9,7585,75000,0,26756,1,Parent,Both,758464,N
+SL951,B.Com (Accounting),UG,3,Tier 3,7.2,5186,150000,0,24799,1,Parent,Living Expenses,246771,N
+SL952,Aerospace Engineering,UG,4,Tier 1,4.5,7625,100000,0,43728,1,Parent,Both,383225,Y
+SL953,Civil Engineering,UG,4,Tier 3,7.4,59,75000,1,56514,1,Parent,Both,290204,N
+SL954,M.Sc (Mathematics),Masters,2,Tier 3,6.0,11351,150000,0,50986,1,Parent,Living Expenses,1636493,Y
+SL955,Civil Engineering,UG,4,Tier 2,4.5,460,0,0,42183,1,Guardian,Both,430055,N
+SL956,LLB (Law),UG,5,Tier 2,4.5,2432,100000,0,46814,0,Parent,Tuition,654603,Y
+SL957,Information Technology,UG,3,Tier 3,9.8,5282,0,1,43901,1,Parent,Both,193779,N
+SL958,Automobile Engineering,UG,4,Tier 3,9.5,3124,25000,1,11062,1,Parent,Tuition,363435,Y
+SL959,MCA (Computer Applications),Masters,3,Tier 2,5.6,14830,150000,0,24983,1,Parent,Both,730382,Y
+SL960,Automobile Engineering,UG,4,Tier 1,8.0,7860,25000,1,21408,0,Parent,Tuition,710689,N
+SL961,M.Sc (Physics),Masters,2,Tier 3,9.8,6157,50000,1,57397,1,Parent,Both,1372319,Y
+SL962,B.Sc (Chemistry),UG,3,Tier 3,5.7,792,100000,0,25676,1,Sibling,Tuition,612534,Y
+SL963,B.Ed (Education),UG,2,Tier 2,4.5,7789,50000,0,25147,1,Parent,Both,154898,Y
+SL964,B.A (History),UG,3,Tier 3,4.5,7914,25000,0,29730,0,Guardian,Tuition,223894,Y
+SL965,M.Sc (Physics),Masters,2,Tier 3,4.5,11718,0,0,41623,1,Parent,Both,1550738,N
+SL966,B.A (English Literature),UG,3,Tier 3,9.8,6192,150000,1,40733,1,Parent,Tuition,404018,Y
+SL967,MBA (Finance),Masters,2,Tier 1,5.8,8406,0,0,36694,0,Parent,Living Expenses,1268839,Y
+SL968,B.Sc (Chemistry),UG,3,Tier 2,7.9,2572,0,0,50322,1,Guardian,Living Expenses,304963,Y
+SL969,BDS (Dentistry),UG,5,Tier 2,4.5,4302,0,0,42393,1,Parent,Both,271729,N
+SL970,BDS (Dentistry),UG,5,Tier 2,6.9,1246,100000,0,20417,0,Parent,Tuition,975103,Y
+SL971,M.Sc (Mathematics),Masters,2,Tier 3,4.5,4876,100000,0,53335,1,Parent,Tuition,1412138,N
+SL972,Civil Engineering,UG,4,Tier 1,4.5,6847,75000,0,26461,1,Parent,Both,454597,N
+SL973,MBA (HR),Masters,2,Tier 3,4.5,4207,25000,0,10863,1,Parent,Tuition,1926716,Y
+SL974,Electrical Engineering,UG,4,Tier 1,4.5,7440,50000,0,18623,1,Guardian,Tuition,968602,Y
+SL975,BBA (Management Studies),UG,3,Tier 1,4.5,1272,100000,0,51316,1,Relative,Tuition,951256,Y
+SL976,B.Sc (Physics),UG,3,Tier 3,7.7,5355,50000,0,31039,1,Guardian,Tuition,703535,Y
+SL977,B.Ed (Education),UG,2,Tier 3,7.0,3510,0,0,12465,1,Parent,Both,232408,N
+SL978,B.A (Philosophy),UG,3,Tier 2,4.5,6778,150000,0,37819,0,Parent,Living Expenses,887126,Y
+SL979,Information Technology,UG,3,Tier 3,4.5,1048,25000,0,26000,1,Parent,Both,588388,Y
+SL980,M.A (Economics),Masters,2,Tier 1,4.5,7925,25000,0,12660,1,Parent,Both,825558,Y
+SL981,MBA (Marketing),Masters,2,Tier 1,9.3,7882,0,1,59684,0,Parent,Living Expenses,508446,Y
+SL982,Electronics Engineering,UG,4,Tier 3,4.5,6292,100000,0,38889,1,Parent,Both,244047,N
+SL983,B.Ed (Education),UG,2,Tier 2,4.5,1815,0,0,28394,0,Guardian,Both,345891,Y
+SL984,MBBS (Medicine),UG,5,Tier 1,8.7,4652,0,1,46674,1,Relative,Living Expenses,736349,Y
+SL985,B.A (History),UG,3,Tier 3,4.5,4211,0,0,22143,1,Guardian,Both,644506,N
+SL986,BBA (Management Studies),UG,3,Tier 3,4.9,2072,150000,0,43758,1,Parent,Both,433918,Y
+SL987,LLB (Law),UG,5,Tier 3,4.5,6869,25000,0,33122,1,Guardian,Both,638922,Y
+SL988,Chemical Engineering,UG,4,Tier 3,4.5,7083,0,0,33380,1,Relative,Tuition,397985,Y
+SL989,B.Com (Banking & Finance),UG,3,Tier 1,4.5,511,75000,0,11025,1,Parent,Tuition,208277,Y
+SL990,MBA (HR),Masters,2,Tier 1,4.5,10946,0,0,54927,1,Relative,Both,1661110,Y
+SL991,MBA (Marketing),Masters,2,Tier 1,9.6,6244,100000,1,26561,1,Parent,Tuition,566706,Y
+SL992,Electronics Engineering,UG,4,Tier 3,4.5,1374,75000,0,44067,1,Sibling,Both,598049,Y
+SL993,MBBS (Medicine),UG,5,Tier 1,8.2,4430,25000,1,17739,1,Relative,Tuition,939229,Y
+SL994,Electronics Engineering,UG,4,Tier 2,7.4,2689,150000,1,45302,1,Parent,Living Expenses,542524,N
+SL995,Aerospace Engineering,UG,4,Tier 1,9.4,7549,0,1,46347,1,Parent,Both,199009,Y
+SL996,Data Science Engineering,UG,4,Tier 3,4.5,7996,0,0,43746,0,Parent,Living Expenses,909884,Y
+SL997,Data Science Engineering,UG,4,Tier 1,6.9,6278,100000,0,23311,1,Guardian,Living Expenses,559661,Y
+SL998,MBA (Marketing),Masters,2,Tier 1,7.4,8475,0,1,35540,0,Parent,Tuition,615681,Y
+SL999,B.A (Philosophy),UG,3,Tier 3,4.5,2622,0,0,27114,1,Guardian,Living Expenses,523332,N
+SL1000,Chemical Engineering,UG,4,Tier 2,5.0,2865,150000,0,12418,1,Parent,Tuition,563779,Y
