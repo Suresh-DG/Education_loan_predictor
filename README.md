@@ -4,7 +4,7 @@ A user-friendly web application that predicts whether a student's loan applicati
 
 ---
 
-## ✨ Overview
+## ✨ Overview 
 
 This project aims to demystify the student loan approval process. By inputting details about academic performance, financials, and loan requirements, the application provides a quick, visual prediction of the loan outcome. The model is trained on a synthetic dataset designed to reflect the Indian financial and educational landscape.
 
