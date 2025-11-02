@@ -11,7 +11,7 @@ This project aims to demystify the student loan approval process. By inputting d
 ### Key Features:
 -   **Instant Predictions:** Get an immediate estimate of loan approval status.
 -   **User-Friendly Interface:** Simple and intuitive web form built with Streamlit.
--   **Data-Driven:** Based on a Random Forest Classifier model trained on key financial and academic features.
+-   **Data-Driven:** Based on a Logistic Regression model trained on key financial and academic features.
 -   **Informative:** Helps users understand the factors that might influence a lender's decision.
 
 ## 🎯 Why This Project?
@@ -36,7 +36,7 @@ This project aims to demystify the student loan approval process. By inputting d
     -   `Loan Risk`
     -   `Relationship Strength`
 3.  **Data Preprocessing:** Categorical features are converted into a machine-readable format using one-hot encoding.
-4.  **Model Training:** A Random Forest Classifier is trained on the preprocessed data to learn the patterns for loan approval.
+4.  **Model Training:** A Logistic Regression is trained on the preprocessed data to learn the patterns for loan approval.
 5.  **Model Serialization:** The trained model and feature columns are saved using Joblib for later use in the web app.
 6.  **Web Interface:** A Streamlit application provides a simple interface for users to input their details and receive predictions.
 
